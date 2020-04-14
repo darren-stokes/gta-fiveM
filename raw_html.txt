@@ -1,0 +1,4673 @@
+Dinghy by Nagasaki
+strongInfluences:/strong RHIBbr /
+strongCapacity:/strong 2-4br /
+strongFeatures:/strong SCUBA gearbr /
+strongNotes:/strong With (4 seater) or without radar arch (2 seater), yacht variant (4 seater, Executives, GTAO only)br /
+br /
+/td
+td width="402"a href="/images/dinghyf.jpg" rel="shadowbox[Dinghy]" title="Dinghy"img src="/images/400x160/dinghyf.jpg" //a
+a href="/images/dinghyr.jpg" rel="shadowbox[Dinghy]" title="Dinghy" /a/td
+/tr
+tr
+td valign="top"
+Jetmax by Shitzu
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/jetmaxf.jpg" target="_blank" rel="shadowbox[Jetmax]" title="Jetmax"img src="/images/400x160/jetmaxf.jpg" //a
+a href="/images/jetmaxr.jpg" rel="shadowbox[Jetmax]" title="Jetmax" /a/td
+/tr
+tr
+td valign="top"
+Kraken Sub
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong PC/PS4/XB1 returning players. Available after completing a href="https://www.igta5.com/wildlife-photography-challenge"Wildlife Photography Challenge/a.br /
+br /
+/td
+tdimg src="https://www.igta5.com/images/400x160/kraken.jpg" //td
+/tr
+tr
+td valign="top"
+Marquis by Dinka
+strongInfluences:/strong br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/marquisf.jpg" target="_blank" rel="shadowbox[Marquis]" title="Marquis"img src="/images/400x160/marquisf.jpg" //a
+a href="/images/marquisr.jpg" rel="shadowbox[Marquis]" title="Marquis" /a/td
+/tr
+tr
+td valign="top"
+Police Predator
+strongInfluences:/strong br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Policebr /
+br /
+/td
+tda href="/images/policepredatorf.jpg" target="_blank" rel="shadowbox[Police Predator]" title="Police Predator"img src="/images/400x160/policepredatorf.jpg" //a
+a href="/images/policepredatorr.jpg" rel="shadowbox[Police Predator]" title="Police Predator" /a/td
+/tr
+tr
+td valign="top"
+Seashark by Speedophile
+strongInfluences:/strong Kawasaki, Yamahabr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Regular or lifeguard variantsbr /
+br /
+/td
+tda href="/images/seashark1f.jpg" target="_blank" rel="shadowbox[Seashark]" title="Seashark"img src="/images/400x160/seashark1f.jpg" //a
+a href="/images/seashark1r.jpg" rel="shadowbox[Seashark]" title="Seashark" /a/td
+/tr
+tr
+td valign="top"
+Speeder by Pegassi
+strongInfluences:/strong Riva Aquaramabr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Beach Bum Updatebr /
+br /
+/td
+tda href="/images/speederf.jpg" target="_blank" rel="shadowbox[Speeder]" title="Speeder"img src="/images/400x160/speederf.jpg" //a
+a href="/images/speederr.jpg" rel="shadowbox[Speeder]" title="Speeder" /a/td
+/tr
+tr
+td valign="top"
+Squalo by Shitzu
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong With or without archbr /
+br /
+/td
+tda href="/images/squalof.jpg" target="_blank" rel="shadowbox[Squalo]" title="Squalo"img src="/images/400x160/squalof.jpg" //a
+a href="/images/squalor.jpg" rel="shadowbox[Squalo]" title="Squalo" /a/td
+/tr
+tr
+td valign="top"
+Submersible
+strongInfluences:/strong Variousbr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong SCUBA gearbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/submersiblef.jpg" target="_blank" rel="shadowbox[Submersible]" title="Submersible"img src="/images/400x160/submersiblef.jpg" //a
+a href="/images/submersibler.jpg" rel="shadowbox[Submersible]" title="Submersible" /a/td
+/tr
+tr
+td valign="top"
+Suntrap by Shitzu
+strongInfluences:/strong br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Solid, metal frame, or no archbr /
+br /
+/td
+tda href="/images/suntrapf.jpg" target="_blank" rel="shadowbox[Suntrap]" title="Suntrap"img src="/images/400x160/suntrapf.jpg" //a
+a href="/images/suntrapr.jpg" rel="shadowbox[Suntrap]" title="Suntrap" /a/td
+/tr
+tr
+td valign="top"
+Toro by Lampadati
+strongInfluences:/strong Riva Aquarama Lamborghinibr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Ill-Gotten Gains Part 2br /
+br /
+/td
+tda href="/images/torof.jpg" target="_blank" rel="shadowbox[Toro]" title="Toro"img src="/images/400x160/torof.jpg" //a
+a href="/images/toror.jpg" rel="shadowbox[Toro]" title="Toro" /a/td
+/tr
+tr
+td valign="top"
+Tropic by Shitzu
+strongInfluences:/strong br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong With or without roofs, various bow deck optionsbr /
+br /
+/td
+tda href="/images/tropicf.jpg" target="_blank" rel="shadowbox[Tropic]" title="Tropic"img src="/images/400x160/tropicf.jpg" //a
+a href="/images/tropicr.jpg" rel="shadowbox[Tropic]" title="Tropic" /a/td
+/tr
+tr
+td valign="top"
+Tug by Buckingham
+strongInfluences:/strong Variousbr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong Operable version of the Olifantus tug. Further Adventures in Finance and Felony Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/tug.jpg" //td
+/tr
+/table
+/divh2Commercial/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('commercial') .style.display=='none') {document.getElementById('commercial') .style.display=''}else{document.getElementById('commercial') .style.display='none'}"Show/hide/buttonbr /
+div id="commercial" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Benson by Vapid
+strongInfluences:/strong International chassisbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Rear vehicle storage (during a mission only)br /
+strongNotes:/strong br /
+br /
+/td
+td width="402"a href="/images/bensonf.jpg" target="_blank" rel="shadowbox[Benson]" title="Benson"img src="/images/400x160/bensonf.jpg" //a
+a href="/images/bensonr.jpg" rel="shadowbox[Benson]" title="Benson" /a/td
+/tr
+tr
+td valign="top"
+Biff by HVY
+strongInfluences:/strong Kenworth chassisbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/bifff.jpg" target="_blank" rel="shadowbox[Biff]" title="Biff"img src="/images/400x160/bifff.jpg" //a
+a href="/images/biffr.jpg" rel="shadowbox[Biff]" title="Biff" /a/td
+/tr
+tr
+td valign="top"
+Hauler by JoBuilt
+strongInfluences:/strong Freightliner and Kenworthbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Fifth wheelbr /
+strongNotes:/strong Shares the GTA IV Packer's cab (by MTL)br /
+br /
+/td
+tda href="/images/haulerf.jpg" target="_blank" rel="shadowbox[Hauler]" title="Hauler"img src="/images/400x160/haulerf.jpg" //a
+a href="/images/haulerr.jpg" rel="shadowbox[Hauler]" title="Hauler" /a/td
+/tr
+tr
+td valign="top"
+Mule by Maibatsu
+strongInfluences:/strong Mitsubishi Fuso FM, Hino Rangerbr /
+strongCapacity:/strong 6 (regular), 2 (armored)br /
+strongFeatures:/strong Armor (GTAO Heist variant)br /
+strongNotes:/strong With or without (rare) rear lift, bullbar+side bars (GTA Online Heists, Series A unlock)br /
+br /
+/td
+tda href="/images/mulef.jpg" target="_blank" rel="shadowbox[Mule]" title="Mule"img src="/images/400x160/mulef.jpg" //a
+a href="/images/muler.jpg" rel="shadowbox[Mule]" title="Mule" /a/td
+/tr
+tr
+td valign="top"
+Packer by MTL
+strongInfluences:/strong Internationalbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Fifth wheelbr /
+strongNotes:/strong span style="color:#1a1a1a;"iGTA5/spanbr /
+br /
+/td
+tda href="/images/packerf.jpg" target="_blank" rel="shadowbox[Packer]" title="Packer"img src="/images/400x160/packerf.jpg" //a
+a href="/images/packerr.jpg" rel="shadowbox[Packer]" title="Packer" /a/td
+/tr
+tr
+td valign="top"
+Phantom by JoBuilt
+strongInfluences:/strong Peterbiltbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Fifth wheelbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/phantomf.jpg" target="_blank" rel="shadowbox[Phantom]" title="Phantom"img src="/images/400x160/phantomf.jpg" //a
+a href="/images/phantomr.jpg" rel="shadowbox[Phantom]" title="Phantom" /a/td
+/tr
+tr
+td valign="top"
+Phantom Wedge by JoBuilt
+strongInfluences:/strong Peterbiltbr /
+strongCapacity:/strong 5br /
+strongFeatures:/strong Fifth wheelbr /
+strongNotes:/strong Modified Phantom. Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/phantom-wedge.jpg" //td
+/tr
+tr
+td valign="top"
+Pounder by MTL
+strongInfluences:/strong Internationalbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/pounderf.jpg" target="_blank" rel="shadowbox[Pounder]" title="Pounder"img src="/images/400x160/pounderf.jpg" //a
+a href="/images/pounderr.jpg" rel="shadowbox[Pounder]" title="Pounder" /a/td
+/tr
+tr
+td valign="top"
+Stockade by Brute
+strongInfluences:/strong Internationalbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Money during certain random eventsbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/stockadef.jpg" target="_blank" rel="shadowbox[Stockade]" title="Stockade"img src="/images/400x160/stockadef.jpg" //a
+a href="/images/stockader.jpg" rel="shadowbox[Stockade]" title="Stockade" /a/td
+/tr
+/tablebr /
+/divh2Compact/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('compact') .style.display=='none') {document.getElementById('compact') .style.display=''}else{document.getElementById('compact') .style.display='none'}"Show/hide/buttonbr /
+div id="compact" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Blista by Dinka
+strongInfluences:/strong Hyundai i30, Honda Civic 3-doorbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Also see Blista Compact under Sports categorybr /
+br /
+/td
+td width="402"a href="/images/blistaf.jpg" target="_blank" rel="shadowbox[Blista]" title="Blista"img src="/images/400x160/blistaf.jpg" //a
+a href="/images/blistar.jpg" rel="shadowbox[Blista]" title="Blista" /a/td
+/tr
+tr
+td valign="top"
+Brioso R/A by Grotti
+strongInfluences:/strong Fiat 500 Abarthbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/brioso.jpg" //td
+/tr
+tr
+td valign="top"
+Dilettante by Karin
+strongInfluences:/strong Toyota Prius, Honda Insightbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Hybridbr /
+strongNotes:/strong Regular or Merryweather Security variantsbr /
+br /
+/td
+tda href="/images/dilettante1f.jpg" target="_blank" rel="shadowbox[Dilettante]" title="Dilettante"img src="/images/400x160/dilettante1f.jpg" //a
+a href="/images/dilettante1r.jpg" rel="shadowbox[Dilettante]" title="Dilettante" /aa href="/images/dilettante2f.jpg" rel="shadowbox[Dilettante]" title="Dilettante" /aa href="/images/dilettante2r.jpg" rel="shadowbox[Dilettante]" title="Dilettante" /a/td
+/tr
+tr
+td valign="top"
+Issi by Weeny
+strongInfluences:/strong Mini Cooperbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Convertible topbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/issif.jpg" target="_blank" rel="shadowbox[Issi]" title="Issi"img src="/images/400x160/issif.jpg" //a
+a href="/images/issir.jpg" rel="shadowbox[Issi]" title="Issi" /a/td
+/tr
+tr
+td valign="top"
+Panto by Benefactor
+strongInfluences:/strong Smart Fortwobr /
+strongCapacity:/strong 2br /
+4strongFeatures:/strong br /
+strongNotes:/strong I'm Not a Hipster Updatebr /
+br /
+/td
+tda href="/images/pantof.jpg" target="_blank" rel="shadowbox[Panto]" title="Panto"img src="/images/400x160/pantof.jpg" //a
+a href="/images/pantor.jpg" rel="shadowbox[Panto]" title="Panto" /a/td
+/tr
+tr
+td valign="top"
+Prairie by Bollokan
+strongInfluences:/strong Hyundai Tiburonbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/prairief.jpg" target="_blank" rel="shadowbox[Prairie]" title="Prairie"img src="/images/400x160/prairief.jpg" //a
+a href="/images/prairier.jpg" rel="shadowbox[Prairie]" title="Prairie" /a/td
+/tr
+tr
+td valign="top"
+Rhapsody by Declasse
+strongInfluences:/strong AMC Pacer sides/rear, Volkswagen Golf frontbr /
+strongCapacity:/strong 2br /
+4strongFeatures:/strong br /
+strongNotes:/strong I'm Not a Hipster Updatebr /
+br /
+/td
+tda href="/images/rhapsodyf.jpg" target="_blank" rel="shadowbox[Rhapsody]" title="Rhapsody"img src="/images/400x160/rhapsodyf.jpg" //a
+a href="/images/rhapsodyr.jpg" rel="shadowbox[Rhapsody]" title="Rhapsody" /a/td
+/tr
+/tablebr /
+/divh2Coupes/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('coupes') .style.display=='none') {document.getElementById('coupes') .style.display=''}else{document.getElementById('coupes') .style.display='none'}"Show/hide/buttonbr /
+div id="coupes" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Cognoscenti Cabrio by Enus
+strongInfluences:/strong Bentley Continental GTbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Convertible topbr /
+strongNotes:/strong See fullsize versions under Sedans.br /
+br /
+/td
+td width="402"a href="/images/cognoscenticabriof.jpg" target="_blank" rel="shadowbox[Cognoscenti Cabrio]" title="Cognoscenti Cabrio"img src="/images/400x160/cognoscenticabriof.jpg" //a
+a href="/images/cognoscenticabrior.jpg" rel="shadowbox[Cognoscenti Cabrio]" title="Cognoscenti Cabrio" /a/td
+/tr
+tr
+td valign="top"
+Exemplar by Dewbauchee
+strongInfluences:/strong Aston Martin Rapidebr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/exemplarf.jpg" target="_blank" rel="shadowbox[Exemplar]" title="Exemplar"img src="/images/400x160/exemplarf.jpg" //a
+a href="/images/exemplarr.jpg" rel="shadowbox[Exemplar]" title="Exemplar" /a/td
+/tr
+tr
+td valign="top"
+F620 by Ocelot
+strongInfluences:/strong Maserati GranTurismobr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/f620f.jpg" target="_blank" rel="shadowbox[F620]" title="F620"img src="/images/400x160/f620f.jpg" //a
+a href="/images/f620r.jpg" rel="shadowbox[F620]" title="F620" /a/td
+/tr
+tr
+td valign="top"
+Felon by Lampadati
+strongInfluences:/strong Jaguar XF, Maserati Quattroportebr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/felonf.jpg" target="_blank" rel="shadowbox[Felon]" title="Felon"img src="/images/400x160/felonf.jpg" //a
+a href="/images/felonr.jpg" rel="shadowbox[Felon]" title="Felon" /a/td
+/tr
+tr
+td valign="top"
+Felon GT by Lampadati
+strongInfluences:/strong Jaguar XF, Maserati Quattroportebr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Convertible topbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/felongtf.jpg" target="_blank" rel="shadowbox[Felon GT]" title="Felon GT"img src="/images/400x160/felongtf.jpg" //a
+a href="/images/felongtr.jpg" rel="shadowbox[Felon GT]" title="Felon GT" /a/td
+/tr
+tr
+td valign="top"
+Jackal by Ocelot
+strongInfluences:/strong br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/jackalf.jpg" target="_blank" rel="shadowbox[Jackal]" title="Jackal"img src="/images/400x160/jackalf.jpg" //a
+a href="/images/jackalr.jpg" rel="shadowbox[Jackal]" title="Jackal" /a/td
+/tr
+tr
+td valign="top"
+Oracle by Ubermacht
+strongInfluences:/strong BMW 7 Seriesbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/oracle1f.jpg" target="_blank" rel="shadowbox[Oracle]" title="Oracle"img src="/images/400x160/oracle1f.jpg" //a
+a href="/images/oracle1r.jpg" rel="shadowbox[Oracle]" title="Oracle" /a/td
+/tr
+tr
+td valign="top"
+Oracle 2 by Ubermacht
+strongInfluences:/strong BMW 7 Series, Acura RLX rearbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/oracle2f.jpg" target="_blank" rel="shadowbox[Oracle 2]" title="Oracle 2"img src="/images/400x160/oracle2f.jpg" //a
+a href="/images/oracle2r.jpg" rel="shadowbox[Oracle 2]" title="Oracle 2" /a/td
+/tr
+tr
+td valign="top"
+Sentinel by Ubermacht
+strongInfluences:/strong BMW 3 Seriesbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Convertible topbr /
+strongNotes:/strong Second row seats only used in a missionbr /
+br /
+/td
+tda href="/images/sentinelf.jpg" target="_blank" rel="shadowbox[Sentinel]" title="Sentinel"img src="/images/400x160/sentinelf.jpg" //a
+a href="/images/sentinelr.jpg" rel="shadowbox[Sentinel]" title="Sentinel" /a/td
+/tr
+tr
+td valign="top"
+Sentinel XS by Ubermacht
+strongInfluences:/strong BMW M3br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/sentinelxsf.jpg" target="_blank" rel="shadowbox[Sentinel XS]" title="Sentinel XS"img src="/images/400x160/sentinelxsf.jpg" //a
+a href="/images/sentinelxsr.jpg" rel="shadowbox[Sentinel XS]" title="Sentinel XS" /a/td
+/tr
+tr
+td valign="top"
+Windsor by Enus
+strongInfluences:/strong Rolls Royce Wraithbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Designer liveriesbr /
+strongNotes:/strong Ill-Gotten Gains Part 1br /
+br /
+/td
+tda href="/images/windsorf.jpg" target="_blank" rel="shadowbox[Windsor]" title="Windsor"img src="/images/400x160/windsorf.jpg" //a
+a href="/images/windsorr.jpg" rel="shadowbox[Windsor]" title="Windsor" /a/td
+/tr
+tr
+td valign="top"
+Windsor Drop by Enus
+strongInfluences:/strong Rolls Royce Ghostbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Convertible topbr /
+strongNotes:/strong Further Adventures in Finance and Felony Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/windsor2.jpg" //td
+/tr
+tr
+td valign="top"
+Zion by Ubermacht
+strongInfluences:/strong BMW 6 Seriesbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/zionf.jpg" target="_blank" rel="shadowbox[Zion]" title="Zion"img src="/images/400x160/zionf.jpg" //a
+a href="/images/zionr.jpg" rel="shadowbox[Zion]" title="Zion" /a/td
+/tr
+tr
+td valign="top"
+Zion Cabrio by Ubermacht
+strongInfluences:/strong BMW M6br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Convertible topbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/zioncabriof.jpg" target="_blank" rel="shadowbox[Zion Cabrio]" title="Zion Cabrio"img src="/images/400x160/zioncabriof.jpg" //a
+a href="/images/zioncabrior.jpg" rel="shadowbox[Zion Cabrio]" title="Zion Cabrio" /a/td
+/tr
+/tablebr /
+/divh2Cycles/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('cycles') .style.display=='none') {document.getElementById('cycles') .style.display=''}else{document.getElementById('cycles') .style.display='none'}"Show/hide/buttonbr /
+div id="cycles" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+BMX
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+td width="402"a href="/images/bmxf.jpg" target="_blank" rel="shadowbox[BMX]" title="BMX"img src="/images/400x160/bmxf.jpg" //a
+a href="/images/bmxr.jpg" rel="shadowbox[BMX]" title="BMX" /a/td
+/tr
+tr
+td valign="top"
+Cruiser
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/cruiserf.jpg" target="_blank" rel="shadowbox[Cruiser]" title="Cruiser"img src="/images/400x160/cruiserf.jpg" //a
+a href="/images/cruiserr.jpg" rel="shadowbox[Cruiser]" title="Cruiser" /a/td
+/tr
+tr
+td valign="top"
+Endurex Race Bike
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/endurexf.jpg" target="_blank" rel="shadowbox[Endurex]" title="Endurex"img src="/images/400x160/endurexf.jpg" //a
+a href="/images/endurexr.jpg" rel="shadowbox[Endurex]" title="Endurex" /a/td
+/tr
+tr
+td valign="top"
+Fixter
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/fixterf.jpg" target="_blank" rel="shadowbox[Fixter]" title="Fixter"img src="/images/400x160/fixterf.jpg" //a
+a href="/images/fixterr.jpg" rel="shadowbox[Fixter]" title="Fixter" /a/td
+/tr
+tr
+td valign="top"
+Scorcher
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/scorcherf.jpg" target="_blank" rel="shadowbox[Scorcher]" title="Scorcher"img src="/images/400x160/scorcherf.jpg" //a
+a href="/images/scorcherr.jpg" rel="shadowbox[Scorcher]" title="Scorcher" /a/td
+/tr
+tr
+td valign="top"
+Tri-Cycles Race Bike
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/tricyclesf.jpg" target="_blank" rel="shadowbox[Tri-Cycles Race Bike]" title="Tri-Cycles Race Bike"img src="/images/400x160/tricyclesf.jpg" //a
+a href="/images/tricyclesr.jpg" rel="shadowbox[Tri-Cycles Race Bike]" title="Tri-Cycles Race Bike" /a/td
+/tr
+tr
+td valign="top"
+Whippet Race Bike
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/whippetf.jpg" target="_blank" rel="shadowbox[Whippet Race Bike]" title="Whippet Race Bike"img src="/images/400x160/whippetf.jpg" //a
+a href="/images/whippetr.jpg" rel="shadowbox[Whippet Race Bike]" title="Whippet Race Bike" /a/td
+/tr
+/tablebr /
+/divh2Emergency/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('emergency') .style.display=='none') {document.getElementById('emergency') .style.display=''}else{document.getElementById('emergency') .style.display='none'}"Show/hide/buttonbr /
+div id="emergency" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Ambulance by Brute
+strongInfluences:/strong Chevy chassisbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong Three paint schemes. Burrito chassis.br /
+br /
+/td
+td width="402"a href="/images/ambulance1f.jpg" target="_blank" rel="shadowbox[Ambulance]" title="Ambulance"img src="/images/400x160/ambulance1f.jpg" //a
+a href="/images/ambulance1r.jpg" rel="shadowbox[Ambulance]" title="Ambulance" /aa href="/images/ambulance2f.jpg" rel="shadowbox[Ambulance]" title="Ambulance" /aa href="/images/ambulance2r.jpg" rel="shadowbox[Ambulance]" title="Ambulance" /aa href="/images/ambulance3f.jpg" rel="shadowbox[Ambulance]" title="Ambulance" /aa href="/images/ambulance3r.jpg" rel="shadowbox[Ambulance]" title="Ambulance" /a/td
+/tr
+tr
+td valign="top"
+FIB (Buffalo) by Bravado
+strongInfluences:/strong Dodge Chargerbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/fibbuffalof.jpg" target="_blank" rel="shadowbox[FIB (Buffalo)]" title="FIB (Buffalo)"img src="/images/400x160/fibbuffalof.jpg" //a
+a href="/images/fibbuffalor.jpg" rel="shadowbox[FIB (Buffalo)]" title="FIB (Buffalo)" /a/td
+/tr
+tr
+td valign="top"
+FIB (Granger) by Declasse
+strongInfluences:/strong Chevrolet Suburbanbr /
+strongCapacity:/strong 8br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/fibgrangerf.jpg" target="_blank" rel="shadowbox[FIB (Granger)]" title="FIB (Granger)"img src="/images/400x160/fibgrangerf.jpg" //a
+a href="/images/fibgrangerr.jpg" rel="shadowbox[FIB (Granger)]" title="FIB (Granger)" /a/td
+/tr
+tr
+td valign="top"
+Fire Truck by MTL
+strongInfluences:/strong Piercebr /
+strongCapacity:/strong 8br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/firetruckf.jpg" target="_blank" rel="shadowbox[Fire Truck]" title="Fire Truck"img src="/images/400x160/firetruckf.jpg" //a
+a href="/images/firetruckr.jpg" rel="shadowbox[Fire Truck]" title="Fire Truck" /a/td
+/tr
+tr
+td valign="top"
+Lifeguard (Granger) by Declasse
+strongInfluences:/strong Chevrolet Suburbanbr /
+strongCapacity:/strong 8br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/lifeguardf.jpg" target="_blank" rel="shadowbox[Lifeguard (Granger)]" title="Lifeguard (Granger)"img src="/images/400x160/lifeguardf.jpg" //a
+a href="/images/lifeguardr.jpg" rel="shadowbox[Lifeguard (Granger)]" title="Lifeguard (Granger)" /a/td
+/tr
+tr
+td valign="top"
+Park Ranger (Granger) by Declasse
+strongInfluences:/strong Chevrolet Suburbanbr /
+strongCapacity:/strong 8br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong NOOSEbr /
+br /
+/td
+tda href="/images/parkrangerf.jpg" target="_blank" rel="shadowbox[Park Ranger]" title="Park Ranger"img src="/images/400x160/parkrangerf.jpg" //a
+a href="/images/parkrangerr.jpg" rel="shadowbox[Park Ranger]" title="Park Ranger" /a/td
+/tr
+tr
+td valign="top"
+Police Bike by Western Motorcycle Company
+strongInfluences:/strong Harley Davidson Electra Glide/Road Kingbr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong Highway Patrolbr /
+br /
+/td
+tda href="/images/policebikef.jpg" target="_blank" rel="shadowbox[Police Bike]" title="Police Bike"img src="/images/400x160/policebikef.jpg" //a
+a href="/images/policebiker.jpg" rel="shadowbox[Police Bike]" title="Police Bike" /a/td
+/tr
+tr
+td valign="top"
+Police Cruiser by Vapid
+strongInfluences:/strong Ford Crown Victoriabr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong Halogen or LED lightbar variantsbr /
+br /
+/td
+tda href="/images/policecruiser1f.jpg" target="_blank" rel="shadowbox[Police Cruiser]" title="Police Cruiser"img src="/images/400x160/policecruiser1f.jpg" //a
+a href="/images/policecruiser1r.jpg" rel="shadowbox[Police Cruiser]" title="Police Cruiser" /a/td
+/tr
+tr
+td valign="top"
+Police Cruiser 2 by Vapid
+strongInfluences:/strong Ford Police Interceptorbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/policecruiser2f.jpg" target="_blank" rel="shadowbox[Police Cruiser 2]" title="Police Cruiser 2"img src="/images/400x160/policecruiser2f.jpg" //a
+a href="/images/policecruiser2r.jpg" rel="shadowbox[Police Cruiser 2]" title="Police Cruiser 2" /a/td
+/tr
+tr
+td valign="top"
+Police Cruiser (Buffalo) by Bravado
+strongInfluences:/strong Dodge Chargerbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/policecruiserbuffalof.jpg" target="_blank" rel="shadowbox[Police Cruiser (Buffalo)]" title="Police Cruiser (Buffalo)"img src="/images/400x160/policecruiserbuffalof.jpg" //a
+a href="/images/policecruiserbuffalor.jpg" rel="shadowbox[Police Cruiser (Buffalo)]" title="Police Cruiser (Buffalo)" /a/td
+/tr
+tr
+td valign="top"
+Police Prison Bus
+strongInfluences:/strong Internationalbr /
+strongCapacity:/strong 11br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/policeprisonbusf.jpg" target="_blank" rel="shadowbox[Police Prison Bus]" title="Police Prison Bus"img src="/images/400x160/policeprisonbusf.jpg" //a
+a href="/images/policeprisonbusr.jpg" rel="shadowbox[Police Prison Bus]" title="Police Prison Bus" /a/td
+/tr
+tr
+td valign="top"
+Police Riot
+strongInfluences:/strong Variousbr /
+strongCapacity:/strong 8br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong NOOSEbr /
+br /
+/td
+tda href="/images/policeriotf.jpg" target="_blank" rel="shadowbox[Police Riot]" title="Police Riot"img src="/images/400x160/policeriotf.jpg" //a
+a href="/images/policeriotr.jpg" rel="shadowbox[Police Riot]" title="Police Riot" /a/td
+/tr
+tr
+td valign="top"
+Police Transporter by Declasse
+strongInfluences:/strong GM vansbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Lights and Sirens, spike strips (LSPD use only or during a mission)br /
+strongNotes:/strong Seating in the rear. Burrito-based.br /
+br /
+/td
+tda href="/images/policetransporterf.jpg" target="_blank" rel="shadowbox[Police Transporter]" title="Police Transporter"img src="/images/400x160/policetransporterf.jpg" //a
+a href="/images/policetransporterr.jpg" rel="shadowbox[Police Transporter]" title="Police Transporter" /a/td
+/tr
+tr
+td valign="top"
+Sheriff Cruiser by Vapid
+strongInfluences:/strong Ford Crown Victoriabr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/sheriffcruiserf.jpg" target="_blank" rel="shadowbox[Sheriff Cruiser]" title="Sheriff Cruiser"img src="/images/400x160/sheriffcruiserf.jpg" //a
+a href="/images/sheriffcruiserr.jpg" rel="shadowbox[Sheriff Cruiser]" title="Sheriff Cruiser" /a/td
+/tr
+tr
+td valign="top"
+Sheriff SUV (Granger) by Declasse
+strongInfluences:/strong Chevrolet Suburbanbr /
+strongCapacity:/strong 8br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong NOOSEbr /
+br /
+/td
+tda href="/images/sheriffgrangerf.jpg" target="_blank" rel="shadowbox[Sheriff SUV (Granger)]" title="Sheriff SUV (Granger)"img src="/images/400x160/sheriffgrangerf.jpg" //a
+a href="/images/sheriffgrangerr.jpg" rel="shadowbox[Sheriff SUV (Granger)]" title="Sheriff SUV (Granger)" /a/td
+/tr
+tr
+td valign="top"
+Unmarked Cruiser by Vapid
+strongInfluences:/strong Ford Crown Victoriabr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Lights and Sirensbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/unmarkedcruiserf.jpg" target="_blank" rel="shadowbox[Unmarked Cruiser]" title="Unmarked Cruiser"img src="/images/400x160/unmarkedcruiserf.jpg" //a
+a href="/images/unmarkedcruiserr.jpg" rel="shadowbox[Unmarked Cruiser]" title="Unmarked Cruiser" /a/td
+/tr
+/tablebr /
+/divh2Helicopters/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('helicopters') .style.display=='none') {document.getElementById('helicopters') .style.display=''}else{document.getElementById('helicopters') .style.display='none'}"Show/hide/buttonbr /
+div id="helicopters" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Annihilator by Western
+strongInfluences:/strong Sikorsky UH-60br /
+strongCapacity:/strong 6br /
+strongFeatures:/strong Gunsbr /
+strongNotes:/strong GTA Online Onlybr /
+br /
+/td
+td width="402"a href="/images/annihilatorf.jpg" target="_blank" rel="shadowbox[Annihilator]" title="Annihilator"img src="/images/400x160/annihilatorf.jpg" //a
+a href="/images/annihilatorr.jpg" rel="shadowbox[Annihilator]" title="Annihilator" /a/td
+/tr
+tr
+td valign="top"
+Buzzard by Nagasaki
+strongInfluences:/strong Hughes OH-6br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/buzzardf.jpg" target="_blank" rel="shadowbox[Buzzard]" title="Buzzard"img src="/images/400x160/buzzardf.jpg" //a
+a href="/images/buzzardr.jpg" rel="shadowbox[Buzzard]" title="Buzzard" /a/td
+/tr
+tr
+td valign="top"
+Buzzard Attack Chopper by Nagasaki
+strongInfluences:/strong Boeing MH-6br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Guns and missilesbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/buzzardattackf.jpg" target="_blank" rel="shadowbox[Buzzard Attack Chopper]" title="Buzzard Attack Chopper"img src="/images/400x160/buzzardattackf.jpg" //a
+a href="/images/buzzardattackr.jpg" rel="shadowbox[Buzzard Attack Chopper]" title="Buzzard Attack Chopper" /a/td
+/tr
+tr
+td valign="top"
+Cargobob by Western
+strongInfluences:/strong Sikorsky MH-53, Boeing CH-46/47br /
+strongCapacity:/strong 10br /
+strongFeatures:/strong Rear cargo space, large cargo hoistbr /
+strongNotes:/strong Marine, T.P.I., and Private variantsbr /
+br /
+/td
+tda href="/images/cargobobf.jpg" target="_blank" rel="shadowbox[Cargobob]" title="Cargobob"img src="/images/400x160/cargobobf.jpg" //a
+a href="/images/cargobobr.jpg" rel="shadowbox[Cargobob]" title="Cargobob" /a/td
+/tr
+tr
+td valign="top"
+Frogger by Maibatsu
+strongInfluences:/strong Eurocopter EC130/135/145, othersbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Hoist (mission only)br /
+strongNotes:/strong Normal, T.P.I., and "lifeguard lime-yellow" (extremely difficult to obtain) variantsbr /
+br /
+/td
+tda href="/images/froggerf.jpg" target="_blank" rel="shadowbox[Frogger]" title="Frogger"img src="/images/400x160/froggerf.jpg" //a
+a href="/images/froggerr.jpg" rel="shadowbox[Frogger]" title="Frogger" /a/td
+/tr
+tr
+td valign="top"
+Maverick by Buckingham
+strongInfluences:/strong Bell 206L LongRangerbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Hoist (mission only), Camera (GTAO co-pilot use)br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/maverickf.jpg" target="_blank" rel="shadowbox[Maverick]" title="Maverick"img src="/images/400x160/maverickf.jpg" //a
+a href="/images/maverickr.jpg" rel="shadowbox[Maverick]" title="Maverick" /a/td
+/tr
+tr
+td valign="top"
+Police Maverick by Buckingham
+strongInfluences:/strong Eurocopter AS350br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Hoist (police or mission only), Camera (GTAO co-pilot use)br /
+strongNotes:/strong Police or air ambulance variantsbr /
+br /
+/td
+tda href="/images/policemaverick1f.jpg" target="_blank" rel="shadowbox[Police Maverick]" title="Police Maverick"img src="/images/400x160/policemaverick1f.jpg" //a
+a href="/images/policemaverick1r.jpg" rel="shadowbox[Police Maverick]" title="Police Maverick" /aa href="/images/policemaverick2f.jpg" rel="shadowbox[Police Maverick]" title="Police Maverick" /aa href="/images/policemaverick2r.jpg" rel="shadowbox[Police Maverick]" title="Police Maverick" /a/td
+/tr
+tr
+td valign="top"
+Savage
+strongInfluences:/strong Mil Mi-24br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Guns and missilesbr /
+strongNotes:/strong GTA Online Heists (Pacific Standard Bank unlock). GTA Online only.br /
+br /
+/td
+tdimg src="https://www.igta5.com/images/400x0/savage.jpg" alt="savage" //td
+/tr
+tr
+td valign="top"
+Skylift by HVY
+strongInfluences:/strong Sikorsky S-64br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Large cargo hoistbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/skyliftf.jpg" target="_blank" rel="shadowbox[Skylift]" title="Skylift"img src="/images/400x160/skyliftf.jpg" //a
+a href="/images/skyliftr.jpg" rel="shadowbox[Skylift]" title="Skylift" /a/td
+/tr
+tr
+td valign="top"
+SuperVolito by Buckingham
+strongInfluences:/strong Eurocopter EC145br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Regular or carbon variants. Executives and Other Criminals. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/supervolito.jpg" //td
+/tr
+tr
+td valign="top"
+Swift by Buckingham
+strongInfluences:/strong AgustaWestland AW109br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong The SA Flight School Update. Deluxe variant from Ill-Gotten Gains Part 1.br /
+br /
+/td
+tda href="/images/swiftf.jpg" target="_blank" rel="shadowbox[Swift]" title="Swift"img src="/images/400x160/swiftf.jpg" //a
+a href="/images/swiftr.jpg" rel="shadowbox[Swift]" title="Swift" /aa href="/images/swiftdeluxef.jpg" rel="shadowbox[Swift]" title="Swift Deluxe" /aa href="/images/swiftdeluxer.jpg" rel="shadowbox[Swift]" title="Swift Deluxe" /a/td
+/tr
+tr
+td valign="top"
+Valkyrie by Buckingham
+strongInfluences:/strong UH-1Y Venom, Bell 412br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Side turrets and co-pilot gun.br /
+strongNotes:/strong Army. GTA Online Heists (Humane Labs unlock). GTA Online only.br /
+br /
+/td
+tdimg src="https://www.igta5.com/images/400x0/valkyrie.jpg" alt="valkyrie" //td
+/tr
+tr
+td valign="top"
+Volatus by Buckingham
+strongInfluences:/strong Airbus H160, Eurocopter EC155br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Further Adventures in Finance and Felony Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/volatus.jpg" //td
+/tr
+/table
+/divh2Industrial/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('industrial') .style.display=='none') {document.getElementById('industrial') .style.display=''}else{document.getElementById('industrial') .style.display='none'}"Show/hide/buttonbr /
+div id="industrial" style="display:none"br /
+table
+tr
+td valign="top"
+Dock Handler
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+td width="402"a href="/images/dockhandlerf.jpg" target="_blank" rel="shadowbox[Dock Handler]" title="Dock Handler"img src="/images/400x160/dockhandlerf.jpg" //a
+a href="/images/dockhandlerr.jpg" rel="shadowbox[Dock Handler]" title="Dock Handler" /a/td
+/tr
+tr
+td valign="top"
+Dozer by HVY
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong Movable bucketbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/dozerf.jpg" target="_blank" rel="shadowbox[Dozer]" title="Dozer"img src="/images/400x160/dozerf.jpg" //a
+a href="/images/dozerr.jpg" rel="shadowbox[Dozer]" title="Dozer" /a/td
+/tr
+tr
+td valign="top"
+Dump by Brute
+strongInfluences:/strong CAT 789Cbr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong Rockstar lists it as HVY but a Brute logo is on the front of the dump bedbr /
+br /
+/td
+tda href="/images/dumpf.jpg" target="_blank" rel="shadowbox[Dump]" title="Dump"img src="/images/400x160/dumpf.jpg" //a
+a href="/images/dumpr.jpg" rel="shadowbox[Dump]" title="Dump" /a/td
+/tr
+tr
+td valign="top"
+Flatbed by MTL
+strongInfluences:/strong Internationalbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Essentially a nonfunctional tow truckbr /
+br /
+/td
+tda href="/images/flatbedf.jpg" target="_blank" rel="shadowbox[Flatbed]" title="Flatbed"img src="/images/400x160/flatbedf.jpg" //a
+a href="/images/flatbedr.jpg" rel="shadowbox[Flatbed]" title="Flatbed" /a/td
+/tr
+tr
+td valign="top"
+Guardian by Vapid
+strongInfluences:/strong Ford F650, GM Kodiak/TopKickbr /
+strongCapacity:/strong 6br /
+strongFeatures:/strong br /
+strongNotes:/strong GTA Online Heists. GTA Online only.br /
+br /
+/td
+tda href="/images/guardianf.jpg" target="_blank" rel="shadowbox[Guardian]" title="Guardian"img src="/images/400x160/guardianf.jpg" //a
+a href="/images/guardianr.jpg" rel="shadowbox[Guardian]" title="Guardian" /a/td
+/tr
+tr
+td valign="top"
+Mixer by HVY
+strongInfluences:/strong GM Kodiak/TopKickbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Shares same cab as Tipper by Brutebr /
+br /
+/td
+tda href="/images/mixer1f.jpg" target="_blank" rel="shadowbox[Mixer]" title="Mixer"img src="/images/400x160/mixer1f.jpg" //a
+a href="/images/mixer1r.jpg" rel="shadowbox[Mixer]" title="Mixer" /a/td
+/tr
+tr
+td valign="top"
+Mixer 2 by HVY
+strongInfluences:/strong Kenworthbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/mixer2f.jpg" target="_blank" rel="shadowbox[Mixer 2]" title="Mixer 2"img src="/images/400x160/mixer2f.jpg" //a
+a href="/images/mixer2r.jpg" rel="shadowbox[Mixer 2]" title="Mixer 2" /a/td
+/tr
+tr
+td valign="top"
+Rubble by JoBuilt
+strongInfluences:/strong Peterbiltbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/rubblef.jpg" target="_blank" rel="shadowbox[Rubble]" title="Rubble"img src="/images/400x160/rubblef.jpg" //a
+a href="/images/rubbler.jpg" rel="shadowbox[Rubble]" title="Rubble" /a/td
+/tr
+tr
+td valign="top"
+Tipper by Brute
+strongInfluences:/strong GM Kodiak/TopKickbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Shares same cab as Mixer by HVYbr /
+br /
+/td
+tda href="/images/tipperf.jpg" target="_blank" rel="shadowbox[Tipper]" title="Tipper"img src="/images/400x160/tipperf.jpg" //a
+a href="/images/tipperr.jpg" rel="shadowbox[Tipper]" title="Tipper" /a/td
+/tr
+tr
+td valign="top"
+Tipper 2
+strongInfluences:/strong Ford L, Mack Rbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/tipper2f.jpg" target="_blank" rel="shadowbox[Tipper 2]" title="Tipper 2"img src="/images/400x160/tipper2f.jpg" //a
+a href="/images/tipper2r.jpg" rel="shadowbox[Tipper 2]" title="Tipper 2" /a/td
+/tr
+/tablebr /
+/divh2Military/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('military') .style.display=='none') {document.getElementById('military') .style.display=''}else{document.getElementById('military') .style.display='none'}"Show/hide/buttonbr /
+div id="military" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Barracks by HVY
+strongInfluences:/strong Daimler military chassisbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+td width="402"a href="/images/barracksf.jpg" target="_blank" rel="shadowbox[Barracks]" title="Barracks"img src="/images/400x160/barracksf.jpg" //a
+a href="/images/barracksr.jpg" rel="shadowbox[Barracks]" title="Barracks" /a/td
+/tr
+tr
+td valign="top"
+Barracks Semi by HVY
+strongInfluences:/strong Daimler military chassisbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Fifth wheelbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/barrackssemif.jpg" target="_blank" rel="shadowbox[Barracks Semi]" title="Barracks Semi"img src="/images/400x160/barrackssemif.jpg" //a
+a href="/images/barrackssemir.jpg" rel="shadowbox[Barracks Semi]" title="Barracks Semi" /a/td
+/tr
+tr
+td valign="top"
+Crusader by Canis
+strongInfluences:/strong Jeep Wrangler JK Unlimited, UAZ-469br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Hard or open top. Military variant of the Mesa.br /
+br /
+/td
+tda href="/images/crusaderf.jpg" target="_blank" rel="shadowbox[Crusader]" title="Crusader"img src="/images/400x160/crusaderf.jpg" //a
+a href="/images/crusaderr.jpg" rel="shadowbox[Crusader]" title="Crusader" /a/td
+/tr
+tr
+td valign="top"
+Rhino Tank
+strongInfluences:/strong Leopard 2A3br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong Big gunbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/rhinotankf.jpg" target="_blank" rel="shadowbox[Rhino Tank]" title="Rhino Tank"img src="/images/400x160/rhinotankf.jpg" //a
+a href="/images/rhinotankr.jpg" rel="shadowbox[Rhino Tank]" title="Rhino Tank" /a/td
+/tr
+/tablebr /
+/divh2Motorcycles/h2
+pPresented in association with a href="http://webuyanybike.co.uk" target="_blank"We Buy Any Bike/a./pbutton title="Click to show/hide content" type="button" onclick="if(document.getElementById('motorcycles') .style.display=='none') {document.getElementById('motorcycles') .style.display=''}else{document.getElementById('motorcycles') .style.display='none'}"Show/hide/buttonbr /
+div id="motorcycles" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Akuma by Dinka
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+td width="402"a href="/images/akumaf.jpg" target="_blank" rel="shadowbox[Akuma]" title="Akuma"img src="/images/400x160/akumaf.jpg" //a
+a href="/images/akumar.jpg" rel="shadowbox[Akuma]" title="Akuma" /a/td
+/tr
+tr
+td valign="top"
+Avarus by LCC
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/avarus.jpg" //td
+/tr
+tr
+td valign="top"
+Bagger by Western Motorcycle Company
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/baggerf.jpg" target="_blank" rel="shadowbox[Bagger]" title="Bagger"img src="/images/400x160/baggerf.jpg" //a
+a href="/images/baggerr.jpg" rel="shadowbox[Bagger]" title="Bagger" /a/td
+/tr
+tr
+td valign="top"
+Bati 801 by Pegassi
+strongInfluences:/strong Ducati 848br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/bati801f.jpg" target="_blank" rel="shadowbox[Bati 801]" title="Bati 801"img src="/images/400x160/bati801f.jpg" //a
+a href="/images/bati801r.jpg" rel="shadowbox[Bati 801]" title="Bati 801" /a/td
+/tr
+tr
+td valign="top"
+Bati 801RR by Pegassi
+strongInfluences:/strong Ducati 1199br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/bati801rrf.jpg" target="_blank" rel="shadowbox[Bati 801RR]" title="Bati 801RR"img src="/images/400x160/bati801rrf.jpg" //a
+a href="/images/bati801rrr.jpg" rel="shadowbox[Bati 801RR]" title="Bati 801RR" /a/td
+/tr
+tr
+td valign="top"
+BF400 by Nagasaki
+strongInfluences:/strong KTM 450 Rallybr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/bf400.jpg" //td
+/tr
+tr
+td valign="top"
+Carbon RS by Nagasaki
+strongInfluences:/strong  Ducati 1199, EBR 1190RSbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Collector's Edition or PC/PS4/XB1 onlybr /
+br /
+/td
+tda href="/images/carbonrsf.jpg" target="_blank" rel="shadowbox[Carbon RS]" title="Carbon RS"img src="/images/400x160/carbonrsf.jpg" //a
+a href="/images/carbonrsr.jpg" rel="shadowbox[Carbon RS]" title="Carbon RS" /a/td
+/tr
+tr
+td valign="top"
+Chimera by Nagasaki
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong Tricycle. Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/chimera.jpg" //td
+/tr
+tr
+td valign="top"
+Cliffhanger by Western Motorcycle Company
+strongInfluences:/strong Harley-Davidson XR-750br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/cliffhanger.jpg" //td
+/tr
+tr
+td valign="top"
+Daemon by Western Motorcycle Company
+strongInfluences:/strong Harley-Davidson FX series bikesbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Custom variant from Bikers DLC (GTA Online only).br /
+br /
+/td
+tda href="/images/daemonf.jpg" target="_blank" rel="shadowbox[Daemon]" title="Daemon"img src="/images/400x160/daemonf.jpg" //a
+a href="/images/daemonr.jpg" rel="shadowbox[Daemon]" title="Daemon" /a/td
+/tr
+tr
+td valign="top"
+Defiler by Shitzu
+strongInfluences:/strong Suzuki Bandit 1200br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/defiler.jpg" //td
+/tr
+tr
+td valign="top"
+Diabolus by Western Motorcycle Company
+strongInfluences:/strong Ducati Diavel and Streetfighter 848br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/diabolus.jpg" //td
+/tr
+tr
+td valign="top"
+Diabolus Custom by Western Motorcycle Company
+strongInfluences:/strong Ducati Diavel Draxterbr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/diabolus-custom.jpg" //td
+/tr
+tr
+td valign="top"
+Double-T by Dinka
+strongInfluences:/strong Aprilia RSV4, Honda CBR1000RRbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/doubletf.jpg" target="_blank" rel="shadowbox[Double-T]" title="Double-T"img src="/images/400x160/doubletf.jpg" //a
+a href="/images/doubletr.jpg" rel="shadowbox[Double-T]" title="Double-T" /a/td
+/tr
+tr
+td valign="top"
+Enduro by Dinka
+strongInfluences:/strong Honda XL/XR/CB seriesbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong GTA Online Heists. GTA Online only.br /
+br /
+/td
+tda href="/images/endurof.jpg" target="_blank" rel="shadowbox[Enduro]" title="Enduro"img src="/images/400x160/endurof.jpg" //a
+a href="/images/enduror.jpg" rel="shadowbox[Enduro]" title="Enduro" /a/td
+/tr
+tr
+td valign="top"
+Esskey by Pegassi
+strongInfluences:/strong Ducati Scramblerbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/esskey.jpg" //td
+/tr
+tr
+td valign="top"
+Faggio by Pegassi
+strongInfluences:/strong Vespabr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong In-game internet changed to Principe after 1.06 update.br /
+br /
+/td
+tda href="/images/faggiof.jpg" target="_blank" rel="shadowbox[Faggio]" title="Faggio"img src="/images/400x160/faggiof.jpg" //a
+a href="/images/faggior.jpg" rel="shadowbox[Faggio]" title="Faggio" /a/td
+/tr
+tr
+td valign="top"
+Faggio Mod by Pegassi
+strongInfluences:/strong Vespabr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/faggio-mod.jpg" //td
+/tr
+tr
+td valign="top"
+Faggio Sport by Pegassi
+strongInfluences:/strong Piaggio Zip, Peugeot V Clicbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/faggio-sport.jpg" //td
+/tr
+tr
+td valign="top"
+FCR 1000 by Pegassi
+strongInfluences:/strong BMW R100 br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/fcr-1000.jpg" //td
+/tr
+tr
+td valign="top"
+FCR 1000 Custom by Pegassi
+strongInfluences:/strong BMW R100 br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/fcr-1000-custom.jpg" //td
+/tr
+tr
+td valign="top"
+Gargoyle by Western Motorcycle Company
+strongInfluences:/strong Indian 101 Scout hillclimberbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/gargoyle.jpg" //td
+/tr
+tr
+td valign="top"
+Hakuchou by Shitzu
+strongInfluences:/strong Suzuki Hayabusabr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Last Team Standing Updatebr /
+br /
+/td
+tda href="/images/hakuchouf.jpg" target="_blank" rel="shadowbox[Hakuchou]" title="Hakuchou"img src="/images/400x160/hakuchouf.jpg" //a
+a href="/images/hakuchour.jpg" rel="shadowbox[Hakuchou]" title="Hakuchou" /a/td
+/tr
+tr
+td valign="top"
+Hakuchou Drag by Shitzu
+strongInfluences:/strong Suzuki Hayabusabr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/hakuchou-drag-bike.jpg" //td
+/tr
+tr
+td valign="top"
+Hexer by LCC
+strongInfluences:/strong West Coast Choppers bikesbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/hexerf.jpg" target="_blank" rel="shadowbox[Hexer]" title="Hexer"img src="/images/400x160/hexerf.jpg" //a
+a href="/images/hexerr.jpg" rel="shadowbox[Hexer]" title="Hexer" /a/td
+/tr
+tr
+td valign="top"
+Innovation by LCC
+strongInfluences:/strong Custombr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Last Team Standing Updatebr /
+br /
+/td
+tda href="/images/innovationf.jpg" target="_blank" rel="shadowbox[Innovation]" title="Innovation"img src="/images/400x160/innovationf.jpg" //a
+a href="/images/innovationr.jpg" rel="shadowbox[Innovation]" title="Innovation" /a/td
+/tr
+tr
+td valign="top"
+Lectro by Principe
+strongInfluences:/strong Ducati Streetfighter S, MV Agusta Brutale Sbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Boostbr /
+strongNotes:/strong GTA Online Heists (Pacific Standard Bank unlock). GTA Online only.br /
+br /
+/td
+tdimg src="https://www.igta5.com/images/400x0/lectro.jpg" alt="lectro" //td
+/tr
+tr
+td valign="top"
+Manchez by Maibatsu
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/manchez.jpg" //td
+/tr
+tr
+td valign="top"
+Nemesis by Principe
+strongInfluences:/strong Ducati Monster/Hypermotardbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/nemesisf.jpg" target="_blank" rel="shadowbox[Nemesis]" title="Nemesis"img src="/images/400x160/nemesisf.jpg" //a
+a href="/images/nemesisr.jpg" rel="shadowbox[Nemesis]" title="Nemesis" /a/td
+/tr
+tr
+td valign="top"
+Nightblade by Western Motorcycle Company
+strongInfluences:/strong Harley Davidson Night Rod Specialbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/nightblade.jpg" //td
+/tr
+tr
+td valign="top"
+PCJ 600 by Shitzu
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/pcj600f.jpg" target="_blank" rel="shadowbox[PCJ 600]" title="PCJ 600"img src="/images/400x160/pcj600f.jpg" //a
+a href="/images/pcj600r.jpg" rel="shadowbox[PCJ 600]" title="PCJ 600" /a/td
+/tr
+tr
+td valign="top"
+Rat Bike by Western Motorcycle Company
+strongInfluences:/strong Harley-Davidson 1200br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Rusty Wolfsbane. Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/rat-bike.jpg" //td
+/tr
+tr
+td valign="top"
+Ruffian by Pegassi
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/ruffianf.jpg" target="_blank" rel="shadowbox[Ruffian]" title="Ruffian"img src="/images/400x160/ruffianf.jpg" //a
+a href="/images/ruffianr.jpg" rel="shadowbox[Ruffian]" title="Ruffian" /a/td
+/tr
+tr
+td valign="top"
+Sanchez by Maibatsu
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Regular or racing livery schemesbr /
+br /
+/td
+tda href="/images/sanchez2f.jpg" target="_blank" rel="shadowbox[Sanchez (Livery)]" title="Sanchez (Livery)"img src="/images/400x160/sanchez2f.jpg" //a
+a href="/images/sanchez2r.jpg" rel="shadowbox[Sanchez (Livery)]" title="Sanchez (Livery)" /a/td
+/tr
+tr
+td valign="top"
+Sanctus by LCC
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong Avarus based. Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/sanctus.jpg" //td
+/tr
+tr
+td valign="top"
+Shotaro by Nagasaki
+strongInfluences:/strong Lotus C-01, Tron Light Cyclebr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong Energy trail (during Deadline Adversary Mode)br /
+strongNotes:/strong Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/shotaro.jpg" //td
+/tr
+tr
+td valign="top"
+Sovereign by Western Motorcycle Company
+strongInfluences:/strong Harley Davidson Electra Glide/Road Kingbr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong Independence Day Specialbr /
+br /
+/td
+tda href="/images/sovereignf.jpg" target="_blank" rel="shadowbox[Sovereign]" title="Sovereign"img src="/images/400x160/sovereignf.jpg" //a
+a href="/images/sovereignr.jpg" rel="shadowbox[Sovereign]" title="Sovereign" /a/td
+/tr
+tr
+td valign="top"
+Thrust by Dinka
+strongInfluences:/strong Honda CTX1300br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong The High Life Updatebr /
+br /
+/td
+tda href="/images/thrustf.jpg" target="_blank" rel="shadowbox[Thrust]" title="Thrust"img src="/images/400x160/thrustf.jpg" //a
+a href="/images/thrustr.jpg" rel="shadowbox[Thrust]" title="Thrust" /a/td
+/tr
+tr
+td valign="top"
+Vader by Shitzu
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/vaderf.jpg" target="_blank" rel="shadowbox[Vader]" title="Vader"img src="/images/400x160/vaderf.jpg" //a
+a href="/images/vaderr.jpg" rel="shadowbox[Vader]" title="Vader" /a/td
+/tr
+tr
+td valign="top"
+Vindicator by Dinka
+strongInfluences:/strong Honda NM4br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Ill-Gotten Gains Part 2br /
+br /
+/td
+tda href="/images/vindicatorf.jpg" target="_blank" rel="shadowbox[Vindicator]" title="Vindicator"img src="/images/400x160/vindicatorf.jpg" //a
+a href="/images/vindicatorr.jpg" rel="shadowbox[Vindicator]" title="Vindicator" /a/td
+/tr
+tr
+td valign="top"
+Vortex by Pegassi
+strongInfluences:/strong  Ducati 1199 Panigalebr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/vortex.jpg" //td
+/tr
+tr
+td valign="top"
+Wolfsbane by Western Motorcycle Company
+strongInfluences:/strong Harley-Davidson 1200br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Also see Rat Bike rusty variant. Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/wolfsbane.jpg" //td
+/tr
+tr
+td valign="top"
+Zombie Bobber by Western Motorcycle Company
+strongInfluences:/strong Harley Davidson Fat Bob Custombr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong Zombie Chopper based. Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/zombie-bobber.jpg" //td
+/tr
+tr
+td valign="top"
+Zombie Chopper by Western Motorcycle Company
+strongInfluences:/strong Harley Davidson Fat Bob Custombr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/zombie-chopper.jpg" //td
+/tr
+/table
+/divh2Muscle/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('muscle') .style.display=='none') {document.getElementById('muscle') .style.display=''}else{document.getElementById('muscle') .style.display='none'}"Show/hide/buttonbr /
+div id="muscle" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Blade by Vapid
+strongInfluences:/strong Ford Falcon/Fairlanebr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong I'm Not a Hipster Updatebr /
+br /
+/td
+td width="402"a href="/images/bladef.jpg" target="_blank" rel="shadowbox[Blade]" title="Blade"img src="/images/400x160/bladef.jpg" //a
+a href="/images/blader.jpg" rel="shadowbox[Blade]" title="Blade" /a/td
+/tr
+tr
+td valign="top"
+Buccaneer by Albany
+strongInfluences:/strong Ford Fairlane, Buick Rivierabr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/buccaneerf.jpg" target="_blank" rel="shadowbox[Buccaneer]" title="Buccaneer"img src="/images/400x160/buccaneerf.jpg" //a
+a href="/images/buccaneerr.jpg" rel="shadowbox[Buccaneer]" title="Buccaneer" /a/td
+/tr
+tr
+td valign="top"
+Burger Shot Stallion by Classique
+strongInfluences:/strong Oldsmobile Cutlassbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Rockstar lists it as Declasse but Classique logos are seen. PC/PS4/Xb1 returning players. Available after completing a href="https://www.igta5.com/races-stock-car"stock car races/a. Available in GTAO from Cunning Stunts.br /
+br /
+/td
+tda href="/images/stallion3f.jpg" target="_blank" rel="shadowbox[Burger Shot Stallion]" title="Burger Shot Stallion"img src="/images/400x160/stallion3f.jpg" //a
+a href="/images/stallion3r.jpg" rel="shadowbox[Burger Shot Stallion]" title="Burger Shot Stallion" /a/td
+/tr
+tr
+td valign="top"
+Chino by Vapid
+strongInfluences:/strong Ford LTDbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Ill-Gotten Gains Part 2. Hard, soft, or open top variants.br /
+br /
+/td
+tda href="/images/chinof.jpg" target="_blank" rel="shadowbox[Chino]" title="Chino"img src="/images/400x160/chinof.jpg" //a
+a href="/images/chinor.jpg" rel="shadowbox[Chino]" title="Chino" /a/td
+/tr
+tr
+td valign="top"
+Coquette BlackFin by Invetero
+strongInfluences:/strong Corvettebr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Ill-Gotten Gains Part 2. Hard or open top.br /
+br /
+/td
+tda href="/images/coquetteblackfinf.jpg" target="_blank" rel="shadowbox[Coquette BlackFin]" title="Coquette BlackFin"img src="/images/400x160/coquetteblackfinf.jpg" //a
+a href="/images/coquetteblackfinr.jpg" rel="shadowbox[Coquette BlackFin]" title="Coquette BlackFin" /a/td
+/tr
+tr
+td valign="top"
+Dominator by Vapid
+strongInfluences:/strong Ford Mustangbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong See also Pisswasser variant for PC/PS4/XB1 returning players belowbr /
+br /
+/td
+tda href="/images/dominatorf.jpg" target="_blank" rel="shadowbox[Dominator]" title="Dominator"img src="/images/400x160/dominatorf.jpg" //a
+a href="/images/dominatorr.jpg" rel="shadowbox[Dominator]" title="Dominator" /a/td
+/tr
+tr
+td valign="top"
+Duke O'Death by Imponte
+strongInfluences:/strong Pontiac LeMans, Dodge Charger/Challengerbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Armor and other modificationsbr /
+strongNotes:/strong PC/PS4/XB1 returning players. Available from the cafe on Route 68. Watch your back though...br /
+br /
+/td
+tda href="/images/dukeodeathf.jpg" target="_blank" rel="shadowbox[Duke O'Death]" title="Duke O'Death"img src="/images/400x160/dukeodeathf.jpg" //a
+a href="/images/dukeodeathr.jpg" rel="shadowbox[Duke O'Death]" title="Duke O'Death" /a/td
+/tr
+tr
+td valign="top"
+Dukes by Imponte
+strongInfluences:/strong Pontiac LeMans, Dodge Charger/Challengerbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong PC/PS4/XB1br /
+br /
+/td
+tda href="/images/dukesf.jpg" target="_blank" rel="shadowbox[Dukes]" title="Dukes"img src="/images/400x160/dukesf.jpg" //a
+a href="/images/dukesr.jpg" rel="shadowbox[Dukes]" title="Dukes" /a/td
+/tr
+tr
+td valign="top"
+Faction by Willard
+strongInfluences:/strong Buick Regalbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Lowriders update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/faction.jpg" //td
+/tr
+tr
+td valign="top"
+Gauntlet by Bravado
+strongInfluences:/strong Dodge Challenger, Chevy Camarobr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong See also Redwood variant for PC/PS4/Xb1 returning players belowbr /
+br /
+/td
+tda href="/images/gauntletf.jpg" target="_blank" rel="shadowbox[Gauntlet]" title="Gauntlet"img src="/images/400x160/gauntletf.jpg" //a
+a href="/images/gauntletr.jpg" rel="shadowbox[Gauntlet]" title="Gauntlet" /a/td
+/tr
+tr
+td valign="top"
+Hotknife by Vapid
+strongInfluences:/strong Ford Model 40br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Collector's Edition or PC/PS4/XB1 onlybr /
+br /
+/td
+tda href="/images/hotknifef.jpg" target="_blank" rel="shadowbox[Hotknife]" title="Hotknife"img src="/images/400x160/hotknifef.jpg" //a
+a href="/images/hotknifer.jpg" rel="shadowbox[Hotknife]" title="Hotknife" /a/td
+/tr
+tr
+td valign="top"
+Lurcher by Albany
+strongInfluences:/strong Ford Fairlane, Buick Rivierabr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Zombie coffinbr /
+strongNotes:/strong Buccaneer-based. Halloween Surprise. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/lurcher.jpg" //td
+/tr
+tr
+td valign="top"
+Moonbeam by Declasse
+strongInfluences:/strong GM vansbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Lowriders update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/moonbeam.jpg" //td
+/tr
+tr
+td valign="top"
+Nightshade by Imponte
+strongInfluences:/strong Chevy Camaro, Pontiac GTO/Firebirdbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Executives and Other Criminals. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/nightshade.jpg" //td
+/tr
+tr
+td valign="top"
+Phoenix by Imponte
+strongInfluences:/strong Pontiac Firebird, Chevy Camarobr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/phoenixf.jpg" target="_blank" rel="shadowbox[Phoenix]" title="Phoenix"img src="/images/400x160/phoenixf.jpg" //a
+a href="/images/phoenixr.jpg" rel="shadowbox[Phoenix]" title="Phoenix" /a/td
+/tr
+tr
+td valign="top"
+Picador by Cheval
+strongInfluences:/strong Chevy El Caminobr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/picadorf.jpg" target="_blank" rel="shadowbox[Picador]" title="Picador"img src="/images/400x160/picadorf.jpg" //a
+a href="/images/picadorr.jpg" rel="shadowbox[Picador]" title="Picador" /a/td
+/tr
+tr
+td valign="top"
+Pisswasser Dominator by Vapid
+strongInfluences:/strong Ford Mustangbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong PC/PS4/XB1 returning players. Available after completing a href="https://www.igta5.com/races-stock-car"stock car races/a. Available in GTAO from Cunning Stunts.br /
+br /
+/td
+tda href="/images/dominator2f.jpg" target="_blank" rel="shadowbox[Pisswasser Dominator]" title="Pisswasser Dominator"img src="/images/400x160/dominator2f.jpg" //a
+a href="/images/dominator2r.jpg" rel="shadowbox[Pisswasser Dominator]" title="Pisswasser Dominator" /a/td
+/tr
+tr
+td valign="top"
+Rat-Loader by Bravado
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Rat-Truck-basedbr /
+br /
+/td
+tda href="/images/ratloaderf.jpg" target="_blank" rel="shadowbox[Rat-Loader]" title="Rat-Loader"img src="/images/400x160/ratloaderf.jpg" //a
+a href="/images/ratloaderr.jpg" rel="shadowbox[Rat-Loader]" title="Rat-Loader" /a/td
+/tr
+tr
+td valign="top"
+Rat-Truck by Bravado
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Festive Surprisebr /
+br /
+/td
+tda href="/images/rattruckf.jpg" target="_blank" rel="shadowbox[Rat-Truck]" title="Rat-Truck"img src="/images/400x160/rattruckf.jpg" //a
+a href="/images/rattruckr.jpg" rel="shadowbox[Rat-Truck]" title="Rat-Truck" /a/td
+/tr
+tr
+td valign="top"
+Redwood Gauntlet by Bravado
+strongInfluences:/strong Dodge Challenger, Chevy Camarobr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong PC/PS4/Xb1 returning players. Available after completing a href="https://www.igta5.com/races-stock-car"stock car races/a. Available in GTAO from Cunning Stunts.br /
+br /
+/td
+tda href="/images/gauntlet2f.jpg" target="_blank" rel="shadowbox[Redwood Gauntlet]" title="Redwood Gauntlet"img src="/images/400x160/gauntlet2f.jpg" //a
+a href="/images/gauntlet2r.jpg" rel="shadowbox[Redwood Gauntlet]" title="Redwood Gauntlet" /a/td
+/tr
+tr
+td valign="top"
+Ruiner by Imponte
+strongInfluences:/strong Chevy Camaro, Pontiac Firebirdbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/ruinerf.jpg" target="_blank" rel="shadowbox[Ruiner]" title="Ruiner"img src="/images/400x160/ruinerf.jpg" //a
+a href="/images/ruinerr.jpg" rel="shadowbox[Ruiner]" title="Ruiner" /a/td
+/tr
+tr
+td valign="top"
+Ruiner 2000 by Imponte
+strongInfluences:/strong Chevy Camaro, Pontiac Firebird, "KITT"br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Guns and missiles, parachute, power hopbr /
+strongNotes:/strong Modified Ruiner. Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/ruiner-2000.jpg" //td
+/tr
+tr
+td valign="top"
+Sabre Turbo by Declasse
+strongInfluences:/strong Chevrolet Chevelle, Oldsmobile Cutlassbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/sabref.jpg" target="_blank" rel="shadowbox[Sabre]" title="Sabre"img src="/images/400x160/sabref.jpg" //a
+a href="/images/sabrer.jpg" rel="shadowbox[Sabre]" title="Sabre" /a/td
+/tr
+tr
+td valign="top"
+Slamvan/Lost Slamvan by Vapid
+strongInfluences:/strong Fordbr /
+strongCapacity:/strong 2 (pickup), 4 (Lost van)br /
+strongFeatures:/strong br /
+strongNotes:/strong Festive Surprise (pickup), GTA Online Heists (Lost van, Series A, difficult to obtain). GTA Online only.br /
+br /
+/td
+tda href="/images/slamvanf.jpg" target="_blank" rel="shadowbox[Slamvan]" title="Slamvan"img src="/images/400x160/slamvanf.jpg" //a
+a href="/images/slamvanr.jpg" rel="shadowbox[Slamvan]" title="Slamvan" /a/td
+/tr
+tr
+td valign="top"
+Stallion by Classique
+strongInfluences:/strong Oldsmobile Cutlassbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Rockstar lists it as Declasse but Classique logos are seen. Hard or open top variants. PC/PS4/Xb1. Also see Burger Shot variant above.br /
+br /
+/td
+tda href="/images/stallion2f.jpg" target="_blank" rel="shadowbox[Stallion]" title="Stallion"img src="/images/400x160/stallion2f.jpg" //a
+a href="/images/stallion2r.jpg" rel="shadowbox[Stallion]" title="Stallion" /aa href="/images/stallion1f.jpg" rel="shadowbox[Stallion]" title="Stallion" /aa href="/images/stallion1r.jpg" rel="shadowbox[Stallion]" title="Stallion" /a/td
+/tr
+tr
+td valign="top"
+Tampa by Declasse
+strongInfluences:/strong Dodge Dart/Charger, Ford Mustangbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Festive Surprise 2015. GTA Online only. Also see Drift Tampa under Sports.br /
+br /
+/td
+tdimg src="/images/400x160/tampa.jpg" //td
+/tr
+tr
+td valign="top"
+Vigero by Declasse
+strongInfluences:/strong Chevy Camaro, Plymouth Barracudabr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/vigerof.jpg" target="_blank" rel="shadowbox[Vigero]" title="Vigero"img src="/images/400x160/vigerof.jpg" //a
+a href="/images/vigeror.jpg" rel="shadowbox[Vigero]" title="Vigero" /a/td
+/tr
+tr
+td valign="top"
+Virgo by Albany
+strongInfluences:/strong Chrysler Newport, Lincoln Continentalbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Ill-Gotten Gains Part 1br /
+br /
+/td
+tda href="/images/virgof.jpg" target="_blank" rel="shadowbox[Virgo]" title="Virgo"img src="/images/400x160/virgof.jpg" //a
+a href="/images/virgor.jpg" rel="shadowbox[Virgo]" title="Virgo" /a/td
+/tr
+tr
+td valign="top"
+Voodoo by Declasse
+strongInfluences:/strong Chevy Impalabr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Clean variant from Lowriders update (GTA Online only)br /
+br /
+/td
+tda href="/images/voodoof.jpg" target="_blank" rel="shadowbox[Voodoo]" title="Voodoo"img src="/images/400x160/voodoof.jpg" //a
+a href="/images/voodoor.jpg" rel="shadowbox[Voodoo]" title="Voodoo" /a/td
+/tr
+/tablebr /
+/divh2Off-Road/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('offroad') .style.display=='none') {document.getElementById('offroad') .style.display=''}else{document.getElementById('offroad') .style.display='none'}"Show/hide/buttonbr /
+div id="offroad" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Bifta by BF
+strongInfluences:/strong Meyers Manxbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Beach Bum Updatebr /
+br /
+/td
+td width="402"a href="/images/biftaf.jpg" target="_blank" rel="shadowbox[Bifta]" title="Bifta"img src="/images/400x160/biftaf.jpg" //a
+a href="/images/biftar.jpg" rel="shadowbox[Bifta]" title="Bifta" /a/td
+/tr
+tr
+td valign="top"
+Blazer by Nagasaki
+strongInfluences:/strong Yamaha YFZ450br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Also see Street Blazer variant.br /
+br /
+/td
+tda href="/images/blazerf.jpg" target="_blank" rel="shadowbox[Blazer]" title="Blazer"img src="/images/400x160/blazerf.jpg" //a
+a href="/images/blazerr.jpg" rel="shadowbox[Blazer]" title="Blazer" /a/td
+/tr
+tr
+td valign="top"
+Blazer Aqua by Nagasaki
+strongInfluences:/strong Gibbs Quadskibr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong Guns, water capablebr /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/blazer-aqua.jpg" //td
+/tr
+tr
+td valign="top"
+Blazer (Trevor's Custom) by Nagasaki
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong span style="color:#1a1a1a;"iGTA5/spanbr /
+strongNotes:/strong Special variant available to Trevor in singleplayer. Available for purchase in GTAO (Hot Rod Blazer) after Hipster Update.br /
+br /
+/td
+tda href="/images/blazertrevorf.jpg" target="_blank" rel="shadowbox[Blazer (Trevor)]" title="Blazer (Trevor)"img src="/images/400x160/blazertrevorf.jpg" //a
+a href="/images/blazertrevorr.jpg" rel="shadowbox[Blazer (Trevor)]" title="Blazer (Trevor)" /a/td
+/tr
+tr
+td valign="top"
+Blazer Lifeguard by Nagasaki
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/blazerlifeguardf.jpg" target="_blank" rel="shadowbox[Blazer Lifeguard]" title="Blazer Lifeguard"img src="/images/400x160/blazerlifeguardf.jpg" //a
+a href="/images/blazerlifeguardr.jpg" rel="shadowbox[Blazer Lifeguard]" title="Blazer Lifeguard" /a/td
+/tr
+tr
+td valign="top"
+Bodhi by Canis
+strongInfluences:/strong Land Rover Series III front, Kaiser M715 side/rearbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/bodhif.jpg" target="_blank" rel="shadowbox[Bodhi]" title="Bodhi"img src="/images/400x160/bodhif.jpg" //a
+a href="/images/bodhir.jpg" rel="shadowbox[Bodhi]" title="Bodhi" /a/td
+/tr
+tr
+td valign="top"
+Brawler by Coil
+strongInfluences:/strong Local Motors Rally Fighterbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Ill-Gotten Gains Part 2br /
+br /
+/td
+tda href="/images/brawlerf.jpg" target="_blank" rel="shadowbox[Brawler]" title="Brawler"img src="/images/400x160/brawlerf.jpg" //a
+a href="/images/brawlerr.jpg" rel="shadowbox[Brawler]" title="Brawler" /a/td
+/tr
+tr
+td valign="top"
+Desert Raid by Vapid
+strongInfluences:/strong Red Bull SMG Buggybr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/desert-raid.jpg" //td
+/tr
+tr
+td valign="top"
+Dubsta 6x6 by Benefactor
+strongInfluences:/strong Mercedes-Benz G 63 AMG 6X6br /
+strongCapacity:/strong 6br /
+4strongFeatures:/strong br /
+strongNotes:/strong I'm Not a Hipster Updatebr /
+br /
+/td
+tda href="/images/dubsta6x6f.jpg" target="_blank" rel="shadowbox[Dubsta 6x6]" title="Dubsta 6x6"img src="/images/400x160/dubsta6x6f.jpg" //a
+a href="/images/dubsta6x6r.jpg" rel="shadowbox[Dubsta 6x6]" title="Dubsta 6x6" /a/td
+/tr
+tr
+td valign="top"
+Dune Buggy by BF
+strongInfluences:/strong Sandrailbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong With or without body panelsbr /
+br /
+/td
+tda href="/images/dunebuggyf.jpg" target="_blank" rel="shadowbox[Dune Buggy]" title="Dune Buggy"img src="/images/400x160/dunebuggyf.jpg" //a
+a href="/images/dunebuggyr.jpg" rel="shadowbox[Dune Buggy]" title="Dune Buggy" /a/td
+/tr
+tr
+td valign="top"
+Duneloader by Bravado
+strongInfluences:/strong Dodge WM300 Power Wagonbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/duneloaderf.jpg" target="_blank" rel="shadowbox[Duneloader]" title="Duneloader"img src="/images/400x160/duneloaderf.jpg" //a
+a href="/images/duneloaderr.jpg" rel="shadowbox[Duneloader]" title="Duneloader" /a/td
+/tr
+tr
+td valign="top"
+Injection by BF
+strongInfluences:/strong VW "Baja Bugs"br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/injectionf.jpg" target="_blank" rel="shadowbox[Injection]" title="Injection"img src="/images/400x160/injectionf.jpg" //a
+a href="/images/injectionr.jpg" rel="shadowbox[Injection]" title="Injection" /a/td
+/tr
+tr
+td valign="top"
+Insurgent by HVY
+strongInfluences:/strong Terradyne Gurkha, Conquest Knight XVbr /
+strongCapacity:/strong 9 (pickup), 6 (SUV)br /
+strongFeatures:/strong Roof turret (pickup) and armorbr /
+strongNotes:/strong Pickup or SUV variants. GTA Online Heists (Humane Labs unlock). GTA Online only.br /
+br /
+/td
+tdimg src="https://www.igta5.com/images/400x0/insurgent.jpg" alt="insurgent" //td
+/tr
+tr
+td valign="top"
+Kalahari by Canis
+strongInfluences:/strong CitroÃ«n MÃ©haribr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Beach Bum Update. Soft or open (LTS Update) top.br /
+br /
+/td
+tda href="/images/kalaharif.jpg" target="_blank" rel="shadowbox[Kalahari]" title="Kalahari"img src="/images/400x160/kalaharif.jpg" //a
+a href="/images/kalaharir.jpg" rel="shadowbox[Kalahari]" title="Kalahari" /a/td
+/tr
+tr
+td valign="top"
+The Liberator by Vapid
+strongInfluences:/strong Various Ford-based trucksbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Four wheel steeringbr /
+strongNotes:/strong Independence Day Specialbr /
+br /
+/td
+tda href="/images/liberatorf.jpg" target="_blank" rel="shadowbox[The Liberator]" title="The Liberator"img src="/images/400x160/liberatorf.jpg" //a
+a href="/images/liberatorr.jpg" rel="shadowbox[The Liberator]" title="The Liberator" /a/td
+/tr
+tr
+td valign="top"
+Marshall by Cheval
+strongInfluences:/strong Chevy El Caminobr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Four wheel steeringbr /
+strongNotes:/strong Monster truck version of Picador. PC/PS4/XB1 returning players.br /
+br /
+/td
+tda href="/images/marshallf.jpg" target="_blank" rel="shadowbox[Marshall]" title="Marshall"img src="/images/400x160/marshallf.jpg" //a
+a href="/images/marshallr.jpg" rel="shadowbox[Marshall]" title="Marshall" /a/td
+/tr
+tr
+td valign="top"
+Mesa 3 by Canis
+strongInfluences:/strong Jeep Wrangler JK Unlimited, UAZ-469br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Hard or open top. Merryweather Security variant.br /
+br /
+/td
+tda href="/images/mesa3f.jpg" target="_blank" rel="shadowbox[Mesa 3]" title="Mesa"img src="/images/400x160/mesa3f.jpg" //a
+a href="/images/mesa3r.jpg" rel="shadowbox[Mesa 3]" title="Mesa" /a/td
+/tr
+tr
+td valign="top"
+Ramp Buggy by BF
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Armorbr /
+strongNotes:/strong Spoiler variant mission-only. Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/ramp-buggy.jpg" //td
+/tr
+tr
+td valign="top"
+Rancher XL by Declasse
+strongInfluences:/strong Chevy Suburbanbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/rancherxlf.jpg" target="_blank" rel="shadowbox[Rancher XL]" title="Rancher XL"img src="/images/400x160/rancherxlf.jpg" //a
+a href="/images/rancherxlr.jpg" rel="shadowbox[Rancher XL]" title="Rancher XL" /a/td
+/tr
+tr
+td valign="top"
+Rebel by Karin
+strongInfluences:/strong Toyota Hiluxbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Regular or beater (more mods) variants. Armed variant named Technical below.br /
+br /
+/td
+tda href="/images/rebel2f.jpg" target="_blank" rel="shadowbox[Rebel]" title="Rebel"img src="/images/400x160/rebel2f.jpg" //a
+a href="/images/rebel2r.jpg" rel="shadowbox[Rebel]" title="Rebel" /a/td
+/tr
+tr
+td valign="top"
+Sandking SWB by Vapid
+strongInfluences:/strong Ford Super Dutybr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Extended cab. Modified Sadler.br /
+br /
+/td
+tda href="/images/sandkingswbf.jpg" target="_blank" rel="shadowbox[Sandking SWB]" title="Sandking SWB"img src="/images/400x160/sandkingswbf.jpg" //a
+a href="/images/sandkingswbr.jpg" rel="shadowbox[Sandking SWB]" title="Sandking SWB" /a/td
+/tr
+tr
+td valign="top"
+Sandking XL by Vapid
+strongInfluences:/strong Ford Super Dutybr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Crew cab. Modified Sadler.br /
+br /
+/td
+tda href="/images/sandkingxlf.jpg" target="_blank" rel="shadowbox[Sandking XL]" title="Sandking XL"img src="/images/400x160/sandkingxlf.jpg" //a
+a href="/images/sandkingxlr.jpg" rel="shadowbox[Sandking XL]" title="Sandking XL" /a/td
+/tr
+tr
+td valign="top"
+Space Docker by BF
+strongInfluences:/strong Sandrailbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Lights and space soundsbr /
+strongNotes:/strong Customized Dune Buggy rewarded after completing Omega's stranger missions.br /
+br /
+/td
+tda href="/images/spacedockerf.jpg" target="_blank" rel="shadowbox[Space Docker]" title="Space Docker"img src="/images/400x160/spacedockerf.jpg" //a
+a href="/images/spacedockerr.jpg" rel="shadowbox[Space Docker]" title="Space Docker" /a/td
+/tr
+tr
+td valign="top"
+Street Blazer by Nagasaki
+strongInfluences:/strong Spy Racing quadbr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong Blazer variant. Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/street-blazer.jpg" //td
+/tr
+tr
+td valign="top"
+Technical by Karin
+strongInfluences:/strong Toyota Hiluxbr /
+strongCapacity:/strong 3br /
+strongFeatures:/strong Gun turretbr /
+strongNotes:/strong Modified Rebel. GTA Online Heists (Series A Funding unlock). GTA Online only.br /
+br /
+/td
+tdimg src="https://www.igta5.com/images/400x0/technical.jpg" //td
+/tr
+tr
+td valign="top"
+Technical Aqua by Karin
+strongInfluences:/strong Toyota Hiluxbr /
+strongCapacity:/strong 3br /
+strongFeatures:/strong Gun turret, water capablebr /
+strongNotes:/strong Modified Technical. Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="https://www.igta5.com/images/400x0/technical-aqua.jpg" //td
+/tr
+tr
+td valign="top"
+Trophy Truck by Vapid
+strongInfluences:/strong Custom Ford F-150/Raptor bajasbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/trophy-truck.jpg" //td
+/tr
+/table
+/divh2Planes/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('planes') .style.display=='none') {document.getElementById('planes') .style.display=''}else{document.getElementById('planes') .style.display='none'}"Show/hide/buttonbr /
+div id="planes" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Atomic Blimp
+strongInfluences:/strong Goodyear blimpsbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Special code needed to unlock phone contact. See also Xero Blimp (PC/PS4/XB1) below.br /
+br /
+/td
+td width="402"a href="/images/atomicblimpf.jpg" target="_blank" rel="shadowbox[Atomic Blimp]" title="Atomic Blimp"img src="/images/400x160/atomicblimpf.jpg" //a
+a href="/images/atomicblimpr.jpg" rel="shadowbox[Atomic Blimp]" title="Atomic Blimp" /a/td
+/tr
+tr
+td valign="top"
+Besra by Western
+strongInfluences:/strong Aero L-39 Albatrosbr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong The SA Flight School Updatebr /
+br /
+/td
+tda href="/images/besraf.jpg" target="_blank" rel="shadowbox[Besra]" title="Besra"img src="/images/400x160/besraf.jpg" //a
+a href="/images/besrar.jpg" rel="shadowbox[Besra]" title="Besra" /a/td
+/tr
+tr
+td valign="top"
+Cuban 800 by Western
+strongInfluences:/strong Cessna 310br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/cuban800f.jpg" target="_blank" rel="shadowbox[Cuban 800]" title="Cuban 800"img src="/images/400x160/cuban800f.jpg" //a
+a href="/images/cuban800r.jpg" rel="shadowbox[Cuban 800]" title="Cuban 800" /a/td
+/tr
+tr
+td valign="top"
+Dodo by Mammoth
+strongInfluences:/strong de Havilland Canada DHC-2 Beaverbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Floats and wheelsbr /
+strongNotes:/strong PC/PS4/XB1 returning players. Available from a random event in a cove east of the windfarm.br /
+br /
+/td
+tda href="/images/dodof.jpg" target="_blank" rel="shadowbox[Dodo]" title="Dodo"img src="/images/400x160/dodof.jpg" //a
+a href="/images/dodor.jpg" rel="shadowbox[Dodo]" title="Dodo" /a/td
+/tr
+tr
+td valign="top"
+Duster by Western
+strongInfluences:/strong Stearman Model 75br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Fun chemicalsbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/dusterf.jpg" target="_blank" rel="shadowbox[Duster]" title="Duster"img src="/images/400x160/dusterf.jpg" //a
+a href="/images/dusterr.jpg" rel="shadowbox[Duster]" title="Duster" /a/td
+/tr
+tr
+td valign="top"
+Hydra by Mammoth
+strongInfluences:/strong AV-8B Harrier II, F-35B Lightning IIbr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong VTOL, guns and missilesbr /
+strongNotes:/strong GTA Online Heists (Humane Labs unlock). GTA Online only.br /
+br /
+/td
+tdimg src="https://www.igta5.com/images/400x0/hydra.jpg" alt="Hydra" //td
+/tr
+tr
+td valign="top"
+Jet
+strongInfluences:/strong Boeing 747br /
+strongCapacity:/strong br /
+strongFeatures:/strong br /
+strongNotes:/strong Various paint schemesbr /
+br /
+/td
+tda href="/images/jetf.jpg" target="_blank" rel="shadowbox[Jet]" title="Jet"img src="/images/400x160/jetf.jpg" //a
+a href="/images/jetr.jpg" rel="shadowbox[Jet]" title="Jet" /a/td
+/tr
+tr
+td valign="top"
+Luxor by Buckingham
+strongInfluences:/strong Learjet 55br /
+strongCapacity:/strong 10 (normal), 8 (deluxe)br /
+strongFeatures:/strong br /
+strongNotes:/strong Nicer Shamal. Deluxe variant from Ill-Gotten Gains Part 1.br /
+br /
+/td
+tda href="/images/luxorf.jpg" target="_blank" rel="shadowbox[Luxor]" title="Luxor"img src="/images/400x160/luxorf.jpg" //a
+a href="/images/luxorr.jpg" rel="shadowbox[Luxor]" title="Luxor" /aa href="/images/luxordeluxef.jpg" rel="shadowbox[Luxor]" title="Luxor Deluxe" /aa href="/images/luxordeluxer.jpg" rel="shadowbox[Luxor]" title="Luxor Deluxe" /a/td
+/tr
+tr
+td valign="top"
+Mallard by Western
+strongInfluences:/strong Extra EA-300br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/mallardf.jpg" target="_blank" rel="shadowbox[Mallard]" title="Mallard"img src="/images/400x160/mallardf.jpg" //a
+a href="/images/mallardr.jpg" rel="shadowbox[Mallard]" title="Mallard" /a/td
+/tr
+tr
+td valign="top"
+Mammatus by JoBuilt
+strongInfluences:/strong Cessna 172 Skyhawkbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/mammatusf.jpg" target="_blank" rel="shadowbox[Mammatus]" title="Mammatus"img src="/images/400x160/mammatusf.jpg" //a
+a href="/images/mammatusr.jpg" rel="shadowbox[Mammatus]" title="Mammatus" /a/td
+/tr
+tr
+td valign="top"
+Mil-Jet by Buckingham
+strongInfluences:/strong Bombardier Global Expressbr /
+strongCapacity:/strong 16br /
+strongFeatures:/strong br /
+strongNotes:/strong The SA Flight School Updatebr /
+br /
+/td
+tda href="/images/miljetf.jpg" target="_blank" rel="shadowbox[Mil-Jet]" title="Mil-Jet"img src="/images/400x160/miljetf.jpg" //a
+a href="/images/miljetr.jpg" rel="shadowbox[Mil-Jet]" title="Mil-Jet" /a/td
+/tr
+tr
+td valign="top"
+Nimbus by Buckingham
+strongInfluences:/strong Cessna Citation Xbr /
+strongCapacity:/strong 8br /
+strongFeatures:/strong br /
+strongNotes:/strong Further Adventures in Finance and Felony Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/nimbus.jpg" //td
+/tr
+tr
+td valign="top"
+P-996 Lazer by JoBuilt
+strongInfluences:/strong F-16 Fighting Falconbr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong Guns and missilesbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/p996lazerf.jpg" target="_blank" rel="shadowbox[P-996 Lazer]" title="P-996 Lazer"img src="/images/400x160/p996lazerf.jpg" //a
+a href="/images/p996lazerr.jpg" rel="shadowbox[P-996 Lazer]" title="P-996 Lazer" /a/td
+/tr
+tr
+td valign="top"
+Shamal by Buckingham
+strongInfluences:/strong Learjet 55br /
+strongCapacity:/strong 10br /
+strongFeatures:/strong br /
+strongNotes:/strong Various paint schemesbr /
+br /
+/td
+tda href="/images/shamalf.jpg" target="_blank" rel="shadowbox[Shamal]" title="Shamal"img src="/images/400x160/shamalf.jpg" //a
+a href="/images/shamalr.jpg" rel="shadowbox[Shamal]" title="Shamal" /a/td
+/tr
+tr
+td valign="top"
+Titan
+strongInfluences:/strong C-130br /
+strongCapacity:/strong 10br /
+strongFeatures:/strong Rear cargo space (punch or damage to open)br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/titanf.jpg" target="_blank" rel="shadowbox[Titan]" title="Titan"img src="/images/400x160/titanf.jpg" //a
+a href="/images/titanr.jpg" rel="shadowbox[Titan]" title="Titan" /a/td
+/tr
+tr
+td valign="top"
+Velum by JoBuilt
+strongInfluences:/strong Piper PA-46, SOCATA TBMbr /
+strongCapacity:/strong 4, 5 (GTA Online Heists)br /
+strongFeatures:/strong br /
+strongNotes:/strong 5-seat available for purchase in GTAO after Heists Update (Prison Break unlock). GTA Online only.br /
+br /
+/td
+tda href="/images/velumf.jpg" target="_blank" rel="shadowbox[Velum]" title="Velum"img src="/images/400x160/velumf.jpg" //a
+a href="/images/velumr.jpg" rel="shadowbox[Velum]" title="Velum" /a/td
+/tr
+tr
+td valign="top"
+Vestra by Buckingham
+strongInfluences:/strong Cirrus Vision SF50br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong The Business Updatebr /
+br /
+/td
+tda href="/images/vestraf.jpg" target="_blank" rel="shadowbox[Vestra]" title="Vestra"img src="/images/400x160/vestraf.jpg" //a
+a href="/images/vestrar.jpg" rel="shadowbox[Vestra]" title="Vestra" /a/td
+/tr
+tr
+td valign="top"
+Xero Blimp
+strongInfluences:/strong Goodyear blimpsbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Same model as Atomic Blimp above. PC/PS4/XB1 returning players unlock phone contact.br /
+br /
+/td
+tda href="/images/xeroblimpf.jpg" target="_blank" rel="shadowbox[Xero Blimp]" title="Xero Blimp"img src="/images/400x160/xeroblimpf.jpg" //a
+a href="/images/xeroblimpr.jpg" rel="shadowbox[Xero Blimp]" title="Xero Blimp" /a/td
+/tr
+/tablebr /
+/divh2Sedans/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('sedans') .style.display=='none') {document.getElementById('sedans') .style.display=''}else{document.getElementById('sedans') .style.display='none'}"Show/hide/buttonbr /
+div id="sedans" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Asea by Declasse
+strongInfluences:/strong Chevy Aveo/Sonic, Dacia Loganbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Only available in old-gen singleplayer from a href="https://www.igta5.com/stranger-abigail"Abigail/a after completing her mission string. br /
+br /
+/td
+td width="402"a href="/images/aseaf.jpg" target="_blank" rel="shadowbox[Asea]" title="Asea"img src="/images/400x160/aseaf.jpg" //a
+a href="/images/asear.jpg" rel="shadowbox[Asea]" title="Asea" /a/td
+/tr
+tr
+td valign="top"
+Asterope by Karin
+strongInfluences:/strong Toyota Corollabr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/asteropef.jpg" target="_blank" rel="shadowbox[Asterope]" title="Asterope"img src="/images/400x160/asteropef.jpg" //a
+a href="/images/asteroper.jpg" rel="shadowbox[Asterope]" title="Asterope" /a/td
+/tr
+tr
+td valign="top"
+Cognoscenti by Enus
+strongInfluences:/strong Bentley Continental Flying Spur/Mulsanne, Maybach 57/62br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Armor (variant)br /
+strongNotes:/strong See cabrio version under Coupes and shorter version below. Executives and Other Criminals. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/cognoscenti.jpg" //td
+/tr
+tr
+td valign="top"
+Cognoscenti 55 by Enus
+strongInfluences:/strong Bentley Continental Flying Spur/Mulsannebr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Armor (variant)br /
+strongNotes:/strong Shorter version. Executives and Other Criminals. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/cognoscenti2.jpg" //td
+/tr
+tr
+td valign="top"
+Emperor by Albany
+strongInfluences:/strong Cadillac Fleetwoodbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Regular or beater variantsbr /
+br /
+/td
+tda href="/images/emperorf.jpg" target="_blank" rel="shadowbox[Emperor]" title="Emperor"img src="/images/400x160/emperorf.jpg" //a
+a href="/images/emperorr.jpg" rel="shadowbox[Emperor]" title="Emperor" /a/td
+/tr
+tr
+td valign="top"
+Fugitive by Cheval
+strongInfluences:/strong Chevy SSbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/fugitivef.jpg" target="_blank" rel="shadowbox[Fugitive]" title="Fugitive"img src="/images/400x160/fugitivef.jpg" //a
+a href="/images/fugitiver.jpg" rel="shadowbox[Fugitive]" title="Fugitive" /a/td
+/tr
+tr
+td valign="top"
+Glendale by Benefactor
+strongInfluences:/strong Mercedes-Benz E- and SL-classbr /
+strongCapacity:/strong 4br /
+4strongFeatures:/strong br /
+strongNotes:/strong I'm Not a Hipster Updatebr /
+br /
+/td
+tda href="/images/glendalef.jpg" target="_blank" rel="shadowbox[Glendale]" title="Glendale"img src="/images/400x160/glendalef.jpg" //a
+a href="/images/glendaler.jpg" rel="shadowbox[Glendale]" title="Glendale" /a/td
+/tr
+tr
+td valign="top"
+Ingot by Vulcar
+strongInfluences:/strong Audi A6 Avant, Nissan Stageabr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/ingotf.jpg" target="_blank" rel="shadowbox[Ingot]" title="Ingot"img src="/images/400x160/ingotf.jpg" //a
+a href="/images/ingotr.jpg" rel="shadowbox[Ingot]" title="Ingot" /a/td
+/tr
+tr
+td valign="top"
+Intruder by Karin
+strongInfluences:/strong Infiniti Q45/I30br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/intruderf.jpg" target="_blank" rel="shadowbox[Intruder]" title="Intruder"img src="/images/400x160/intruderf.jpg" //a
+a href="/images/intruderr.jpg" rel="shadowbox[Intruder]" title="Intruder" /a/td
+/tr
+tr
+td valign="top"
+Premier by Declasse
+strongInfluences:/strong Chevy Cobalt, Chevy Aveobr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/premierf.jpg" target="_blank" rel="shadowbox[Premier]" title="Premier"img src="/images/400x160/premierf.jpg" //a
+a href="/images/premierr.jpg" rel="shadowbox[Premier]" title="Premier" /a/td
+/tr
+tr
+td valign="top"
+Primo by Albany
+strongInfluences:/strong Cadillac DeVille, Cadillac Allantebr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/primof.jpg" target="_blank" rel="shadowbox[Primo]" title="Primo"img src="/images/400x160/primof.jpg" //a
+a href="/images/primor.jpg" rel="shadowbox[Primo]" title="Primo" /a/td
+/tr
+tr
+td valign="top"
+Regina by Dundreary
+strongInfluences:/strong Chevy Caprice wagonbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong With or without luggage rackbr /
+br /
+/td
+tda href="/images/reginaf.jpg" target="_blank" rel="shadowbox[Regina]" title="Regina"img src="/images/400x160/reginaf.jpg" //a
+a href="/images/reginar.jpg" rel="shadowbox[Regina]" title="Regina" /a/td
+/tr
+tr
+td valign="top"
+Romero Hearse by Chariot
+strongInfluences:/strong Modified Lincoln Town Carbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Washington-based hearsebr /
+br /
+/td
+tda href="/images/romerohearsef.jpg" target="_blank" rel="shadowbox[Romero Hearse]" title="Romero Hearse"img src="/images/400x160/romerohearsef.jpg" //a
+a href="/images/romerohearser.jpg" rel="shadowbox[Romero Hearse]" title="Romero Hearse" /a/td
+/tr
+tr
+td valign="top"
+Schafter by Benefactor
+strongInfluences:/strong Mercedes-Benz CL- and E-classbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong See other variants and Turreted Limo below.br /
+br /
+/td
+tda href="/images/schafterf.jpg" target="_blank" rel="shadowbox[Schafter]" title="Schafter"img src="/images/400x160/schafterf.jpg" //a
+a href="/images/schafterr.jpg" rel="shadowbox[Schafter]" title="Schafter" /a/td
+/tr
+tr
+td valign="top"
+Schafter LWB by Benefactor
+strongInfluences:/strong Mercedes-Benz CL- and E-classbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Armor (variant)br /
+strongNotes:/strong Longer wheelbase. Executives and Other Criminals. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/schafter4.jpg" //td
+/tr
+tr
+td valign="top"
+Schafter V12 by Benefactor
+strongInfluences:/strong Mercedes-Benz CL- and E-classbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Armor (variant)br /
+strongNotes:/strong Better engine. Executives and Other Criminals. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/schafter3.jpg" //td
+/tr
+tr
+td valign="top"
+Stanier by Vapid
+strongInfluences:/strong Ford Crown Victoriabr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/stanierf.jpg" target="_blank" rel="shadowbox[Stanier]" title="Stanier"img src="/images/400x160/stanierf.jpg" //a
+a href="/images/stanierr.jpg" rel="shadowbox[Stanier]" title="Stanier" /a/td
+/tr
+tr
+td valign="top"
+Stratum by Zirconium
+strongInfluences:/strong Honda Accord station wagonbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/stratumf.jpg" target="_blank" rel="shadowbox[Stratum]" title="Stratum"img src="/images/400x160/stratumf.jpg" //a
+a href="/images/stratumr.jpg" rel="shadowbox[Stratum]" title="Stratum" /a/td
+/tr
+tr
+td valign="top"
+Stretch by Dundreary
+strongInfluences:/strong Modified Lincoln Town Carbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Washington-based limousinebr /
+br /
+/td
+tda href="/images/stretchf.jpg" target="_blank" rel="shadowbox[Stretch]" title="Stretch"img src="/images/400x160/stretchf.jpg" //a
+a href="/images/stretchr.jpg" rel="shadowbox[Stretch]" title="Stretch" /a/td
+/tr
+tr
+td valign="top"
+Super Diamond by Enus
+strongInfluences:/strong Rolls-Royce Phantombr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/superdiamondf.jpg" target="_blank" rel="shadowbox[Super Diamond]" title="Super Diamond"img src="/images/400x160/superdiamondf.jpg" //a
+a href="/images/superdiamondr.jpg" rel="shadowbox[Super Diamond]" title="Super Diamond" /a/td
+/tr
+tr
+td valign="top"
+Surge by Cheval
+strongInfluences:/strong Chevy Voltbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Electricbr /
+br /
+/td
+tda href="/images/surgef.jpg" target="_blank" rel="shadowbox[Surge]" title="Surge"img src="/images/400x160/surgef.jpg" //a
+a href="/images/surger.jpg" rel="shadowbox[Surge]" title="Surge" /a/td
+/tr
+tr
+td valign="top"
+Tailgater by Obey
+strongInfluences:/strong Audi A6br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/tailgaterf.jpg" target="_blank" rel="shadowbox[Tailgater]" title="Tailgater"img src="/images/400x160/tailgaterf.jpg" //a
+a href="/images/tailgaterr.jpg" rel="shadowbox[Tailgater]" title="Tailgater" /a/td
+/tr
+tr
+td valign="top"
+Stretch E by Benefactor
+strongInfluences:/strong Mercedes-Benz CL- and E-classbr /
+strongCapacity:/strong 5br /
+strongFeatures:/strong Armor, roof turretbr /
+strongNotes:/strong Modified Stretch-E (TBoGT), Schafter-based. Executives and Other Criminals. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/limo2.jpg" //td
+/tr
+tr
+td valign="top"
+Warrener by Vulcar
+strongInfluences:/strong Nissan Skyline HGLC10br /
+strongCapacity:/strong 4br /
+4strongFeatures:/strong br /
+strongNotes:/strong I'm Not a Hipster Updatebr /
+br /
+/td
+tda href="/images/warrenerf.jpg" target="_blank" rel="shadowbox[Warrener]" title="Warrener"img src="/images/400x160/warrenerf.jpg" //a
+a href="/images/warrenerr.jpg" rel="shadowbox[Warrener]" title="Warrener" /a/td
+/tr
+tr
+td valign="top"
+Washington by Albany
+strongInfluences:/strong Lincoln Town Carbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/washingtonf.jpg" target="_blank" rel="shadowbox[Washington]" title="Washington"img src="/images/400x160/washingtonf.jpg" //a
+a href="/images/washingtonr.jpg" rel="shadowbox[Washington]" title="Washington" /a/td
+/tr
+/tablebr /
+/divh2Service/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('service') .style.display=='none') {document.getElementById('service') .style.display=''}else{document.getElementById('service') .style.display='none'}"Show/hide/buttonbr /
+div id="service" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Airport Bus by Brute
+strongInfluences:/strong NABI 45C-LFWbr /
+strongCapacity:/strong 16br /
+strongFeatures:/strong br /
+strongNotes:/strong Green and yellow routesbr /
+br /
+/td
+td width="402"a href="/images/airportbusf.jpg" target="_blank" rel="shadowbox[Airport Bus]" title="Airport Bus"img src="/images/400x160/airportbusf.jpg" //a
+a href="/images/airportbusr.jpg" rel="shadowbox[Airport Bus]" title="Airport Bus" /a/td
+/tr
+tr
+td valign="top"
+Brickade by HVY
+strongInfluences:/strong MAN TGS 6x6 Expedition Truckbr /
+strongCapacity:/strong 6br /
+strongFeatures:/strong Armorbr /
+strongNotes:/strong Rockstar lists it as HVY but MTL logos are present. Further Adventures in Finance and Felony Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/brickade.jpg" //td
+/tr
+tr
+td valign="top"
+Bus by Brute
+strongInfluences:/strong NABI 45C-LFWbr /
+strongCapacity:/strong 16br /
+strongFeatures:/strong br /
+strongNotes:/strong Red, orange, bluish-green, and blue routesbr /
+br /
+/td
+tda href="/images/busf.jpg" target="_blank" rel="shadowbox[Bus]" title="Bus"img src="/images/400x160/busf.jpg" //a
+a href="/images/busr.jpg" rel="shadowbox[Bus]" title="Bus" /a/td
+/tr
+tr
+td valign="top"
+Dashound
+strongInfluences:/strong MCI E-series Renaissance br /
+strongCapacity:/strong 10br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/dashoundf.jpg" target="_blank" rel="shadowbox[Dashound]" title="Dashound"img src="/images/400x160/dashoundf.jpg" //a
+a href="/images/dashoundr.jpg" rel="shadowbox[Dashound]" title="Dashound" /a/td
+/tr
+tr
+td valign="top"
+Dune by MTL
+strongInfluences:/strong MAN TGS rangebr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Brickade based. Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/dune.jpg" //td
+/tr
+tr
+td valign="top"
+Rental Shuttle Bus by Brute
+strongInfluences:/strong GM chassisbr /
+strongCapacity:/strong 10br /
+strongFeatures:/strong br /
+strongNotes:/strong A few paint schemes. Burrito chassis.br /
+br /
+/td
+tda href="/images/rentalshuttlebusf.jpg" target="_blank" rel="shadowbox[Rental Shuttle Bus]" title="Rental Shuttle Bus"img src="/images/400x160/rentalshuttlebusf.jpg" //a
+a href="/images/rentalshuttlebusr.jpg" rel="shadowbox[Rental Shuttle Bus]" title="Rental Shuttle Bus" /a/td
+/tr
+tr
+td valign="top"
+Taxi by Vapid
+strongInfluences:/strong Ford Crown Victoriabr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Taxi side missionbr /
+strongNotes:/strong With or without roof advertisementbr /
+br /
+/td
+tda href="/images/taxi2f.jpg" target="_blank" rel="shadowbox[Taxi]" title="Taxi"img src="/images/400x160/taxi2f.jpg" //a
+a href="/images/taxi2r.jpg" rel="shadowbox[Taxi]" title="Taxi" /a/td
+/tr
+tr
+td valign="top"
+Tourbus by Brute
+strongInfluences:/strong GM chassisbr /
+strongCapacity:/strong 10br /
+strongFeatures:/strong Tours at marked locationsbr /
+strongNotes:/strong Ones giving tours cannot be stolen. Open or closed body variants. Burrito chassis.br /
+br /
+/td
+tda href="/images/tourbus1f.jpg" target="_blank" rel="shadowbox[Tourbus]" title="Tourbus"img src="/images/400x160/tourbus1f.jpg" //a
+a href="/images/tourbus1r.jpg" rel="shadowbox[Tourbus]" title="Tourbus" /aa href="/images/tourbus2f.jpg" rel="shadowbox[Tourbus]" title="Tourbus" /aa href="/images/tourbus2r.jpg" rel="shadowbox[Tourbus]" title="Tourbus" /a/td
+/tr
+tr
+td valign="top"
+Trashmaster
+strongInfluences:/strong Crane Carrier Companybr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+td width="402"a href="/images/trashmasterf.jpg" target="_blank" rel="shadowbox[Trashmaster]" title="Trashmaster"img src="/images/400x160/trashmasterf.jpg" //a
+a href="/images/trashmasterr.jpg" rel="shadowbox[Trashmaster]" title="Trashmaster" /a/td
+/tr
+tr
+td valign="top"
+Wastelander by MTL
+strongInfluences:/strong "Mongo"br /
+strongCapacity:/strong 6br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/wastelander.jpg" //td
+/tr
+/table
+/divh2Sports/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('sports') .style.display=='none') {document.getElementById('sports') .style.display=''}else{document.getElementById('sports') .style.display='none'}"Show/hide/buttonbr /
+div id="sports" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+9F by Obey
+strongInfluences:/strong Audi R8br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+td width="402"a href="/images/9ff.jpg" target="_blank" rel="shadowbox[9F]" title="9F"img src="/images/400x160/9ff.jpg" //a
+a href="/images/9fr.jpg" rel="shadowbox[9F]" title="9F" /a/td
+/tr
+tr
+td valign="top"
+9F Cabrio by Obey
+strongInfluences:/strong Audi R8br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Convertible topbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/9fcabriof.jpg" target="_blank" rel="shadowbox[9F Cabrio]" title="9F Cabrio"img src="/images/400x160/9fcabriof.jpg" //a
+a href="/images/9fcabrior.jpg" rel="shadowbox[9F Cabrio]" title="9F Cabrio" /a/td
+/tr
+tr
+td valign="top"
+Alpha by Albany
+strongInfluences:/strong Cadillac ATS, Maserati Quattroportebr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong The Business Updatebr /
+br /
+/td
+tda href="/images/alphaf.jpg" target="_blank" rel="shadowbox[Alpha]" title="Alpha"img src="/images/400x160/alphaf.jpg" //a
+a href="/images/alphar.jpg" rel="shadowbox[Alpha]" title="Alpha" /a/td
+/tr
+tr
+td valign="top"
+Banshee by Bravado
+strongInfluences:/strong Dodge Viperbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Hard or open top variants. Also see 900R variant under Super.br /
+br /
+/td
+tda href="/images/banshee2f.jpg" target="_blank" rel="shadowbox[Banshee]" title="Banshee"img src="/images/400x160/banshee2f.jpg" //a
+a href="/images/banshee2r.jpg" rel="shadowbox[Banshee]" title="Banshee" /aa href="/images/banshee1f.jpg" rel="shadowbox[Banshee]" title="Banshee" /aa href="/images/banshee1r.jpg" rel="shadowbox[Banshee]" title="Banshee" /a/td
+/tr
+tr
+td valign="top"
+Bestia by Grotti
+strongInfluences:/strong Ferrari FF/GTC4Lussobr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Further Adventures in Finance and Felony Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/bestiagts.jpg" //td
+/tr
+tr
+td valign="top"
+Blista Compact by Dinka
+strongInfluences:/strong Honda CR-Xbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong PC/PS4/XB1. Go Go Monkey variant below.br /
+br /
+/td
+tda href="/images/blistacompactf.jpg" target="_blank" rel="shadowbox[Blista Compact]" title="Blista Compact"img src="/images/400x160/blistacompactf.jpg" //a
+a href="/images/blistacompactr.jpg" rel="shadowbox[Blista Compact]" title="Blista Compact" /a/td
+/tr
+tr
+td valign="top"
+Buffalo by Bravado
+strongInfluences:/strong Dodge Chargerbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/buffalo1f.jpg" target="_blank" rel="shadowbox[Buffalo1]" title="Buffalo"img src="/images/400x160/buffalo1f.jpg" //a
+a href="/images/buffalo1r.jpg" rel="shadowbox[Buffalo1]" title="Buffalo" /a/td
+/tr
+tr
+td valign="top"
+Buffalo S by Bravado
+strongInfluences:/strong Dodge Chargerbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Franklin's variant. Originally just named "Buffalo". See Sprunk variant (PC/PS4/XB1) below.br /
+br /
+/td
+tda href="/images/buffalo2f.jpg" target="_blank" rel="shadowbox[Buffalo S]" title="Buffalo S"img src="/images/400x160/buffalo2f.jpg" //a
+a href="/images/buffalo2r.jpg" rel="shadowbox[Buffalo S]" title="Buffalo S" /a/td
+/tr
+tr
+td valign="top"
+Carbonizzare by Grotti
+strongInfluences:/strong Ferrari California front, V12 Zagato rearbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Convertible topbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/carbonizzaref.jpg" target="_blank" rel="shadowbox[Carbonizzare]" title="Carbonizzare"img src="/images/400x160/carbonizzaref.jpg" //a
+a href="/images/carbonizzarer.jpg" rel="shadowbox[Carbonizzare]" title="Carbonizzare" /a/td
+/tr
+tr
+td valign="top"
+Comet by Pfister
+strongInfluences:/strong Porsche 911br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/cometf.jpg" target="_blank" rel="shadowbox[Comet]" title="Comet"img src="/images/400x160/cometf.jpg" //a
+a href="/images/cometr.jpg" rel="shadowbox[Comet]" title="Comet" /a/td
+/tr
+tr
+td valign="top"
+Comet Retro Custom by Pfister
+strongInfluences:/strong Porsche 911br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/comet-retro-custom.jpg" //td
+/tr
+tr
+td valign="top"
+Coquette by Invetero
+strongInfluences:/strong Corvette C7, Jaguar F-Type rearbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Closed and open top variantsbr /
+br /
+/td
+tda href="/images/coquette1f.jpg" target="_blank" rel="shadowbox[Coquette]" title="Coquette"img src="/images/400x160/coquette1f.jpg" //a
+a href="/images/coquette1r.jpg" rel="shadowbox[Coquette]" title="Coquette" /a/td
+/tr
+tr
+td valign="top"
+Drift Tampa by Declasse
+strongInfluences:/strong Dodge Dart/Charger, Ford Mustang Hoonicorn RTRbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Variant of the Tampa. Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/drift-tampa.jpg" //td
+/tr
+tr
+td valign="top"
+Elegy Retro Custom by Annis
+strongInfluences:/strong Nissan GT-Rbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/elegy-retro-custom.jpg" //td
+/tr
+tr
+td valign="top"
+Elegy RH8 by Annis
+strongInfluences:/strong Nissan GT-Rbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Social Club account needed to obtainbr /
+br /
+/td
+tda href="/images/elegyrh8f.jpg" target="_blank" rel="shadowbox[Elegy RH8]" title="Elegy RH8"img src="/images/400x160/elegyrh8f.jpg" //a
+a href="/images/elegyrh8r.jpg" rel="shadowbox[Elegy RH8]" title="Elegy RH8" /a/td
+/tr
+tr
+td valign="top"
+Feltzer by Benefactor
+strongInfluences:/strong Mercedes-Benz SL-classbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/feltzerf.jpg" target="_blank" rel="shadowbox[Feltzer]" title="Feltzer"img src="/images/400x160/feltzerf.jpg" //a
+a href="/images/feltzerr.jpg" rel="shadowbox[Feltzer]" title="Feltzer" /a/td
+/tr
+tr
+td valign="top"
+Furore GT by Lampadati
+strongInfluences:/strong Maserati GranTurismo MC &amp; Alfieri conceptbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Last Team Standing Updatebr /
+br /
+/td
+tda href="/images/furoregtf.jpg" target="_blank" rel="shadowbox[Furore GT]" title="Furore GT"img src="/images/400x160/furoregtf.jpg" //a
+a href="/images/furoregtr.jpg" rel="shadowbox[Furore GT]" title="Furore GT" /a/td
+/tr
+tr
+td valign="top"
+Fusilade by Schyster
+strongInfluences:/strong Chrysler Crossfirebr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/fusiladef.jpg" target="_blank" rel="shadowbox[Fusilade]" title="Fusilade"img src="/images/400x160/fusiladef.jpg" //a
+a href="/images/fusilader.jpg" rel="shadowbox[Fusilade]" title="Fusilade" /a/td
+/tr
+tr
+td valign="top"
+Futo by Karin
+strongInfluences:/strong Toyota AE86br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/futof.jpg" target="_blank" rel="shadowbox[Futo]" title="Futo"img src="/images/400x160/futof.jpg" //a
+a href="/images/futor.jpg" rel="shadowbox[Futo]" title="Futo" /a/td
+/tr
+tr
+td valign="top"
+Go Go Monkey Blista (Compact) by Dinka
+strongInfluences:/strong Honda CR-Xbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong PC/PS4/XB1 returning players. Available after finding all a href="https://www.igta5.com/monkey-mosaics"monkey mosaics/a and completing random event near Burton LS Customs.br /
+br /
+/td
+tda href="/images/blistacompact2f.jpg" target="_blank" rel="shadowbox[Go Go Monkey Blista]" title="Go Go Monkey Blista"img src="/images/400x160/blistacompact2f.jpg" //a
+a href="/images/blistacompact2r.jpg" rel="shadowbox[Go Go Monkey Blista]" title="Go Go Monkey Blista" /a/td
+/tr
+tr
+td valign="top"
+Jester by Dinka
+strongInfluences:/strong Acura NSXbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong The Business Update. Racecar variant from Festive Surprise.br /
+br /
+/td
+tda href="/images/jesterf.jpg" target="_blank" rel="shadowbox[Jester]" title="Jester"img src="/images/400x160/jesterf.jpg" //a
+a href="/images/jesterr.jpg" rel="shadowbox[Jester]" title="Jester" /aa href="/images/jesterracecarf.jpg" rel="shadowbox[Jester]" title="Jester (Racecar)" /aa href="/images/jesterracecarr.jpg" rel="shadowbox[Jester]" title="Jester (Racecar)" /a/td
+/tr
+tr
+td valign="top"
+Khamelion by Hijak
+strongInfluences:/strong Fisker Karma Sunset, Aston Martin Vanquish, Maserati Granturismobr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Electric. Collector's Edition or PC/PS4/XB1 only. GTA Online only.br /
+br /
+/td
+tda href="/images/khamelionf.jpg" target="_blank" rel="shadowbox[Khamelion]" title="Khamelion"img src="/images/400x160/khamelionf.jpg" //a
+a href="/images/khamelionr.jpg" rel="shadowbox[Khamelion]" title="Khamelion" /a/td
+/tr
+tr
+td valign="top"
+Kuruma by Karin
+strongInfluences:/strong Mitsubishi Lancer Evolution X, Subaru WRX STIbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Armor (variant)br /
+strongNotes:/strong GTA Online Heists (Fleeca unlock). GTA Online only.br /
+br /
+/td
+tdimg src="https://www.igta5.com/images/400x0/kuruma.jpg" alt="Kuruma" //td
+/tr
+tr
+td valign="top"
+Lynx by Ocelot
+strongInfluences:/strong Jaguar F-Type, Aston Martin Vanquishbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/lynx.jpg" //td
+/tr
+tr
+td valign="top"
+Massacro by Dewbauchee
+strongInfluences:/strong Ferrari F12, Aston Martin Vanquishbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong The High Life Update. Racecar variant from Festive Surprise.br /
+br /
+/td
+tda href="/images/massacrof.jpg" target="_blank" rel="shadowbox[Massacro]" title="Massacro"img src="/images/400x160/massacrof.jpg" //a
+a href="/images/massacror.jpg" rel="shadowbox[Massacro]" title="Massacro" /aa href="/images/massacroracecarf.jpg" rel="shadowbox[Massacro]" title="Massacro (Racecar)" /aa href="/images/massacroracecarr.jpg" rel="shadowbox[Massacro]" title="Massacro (Racecar)" /a/td
+/tr
+tr
+td valign="top"
+Omnis by Obey
+strongInfluences:/strong Audi Quattro, Fiat 131 Rallybr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/omnis.jpg" //td
+/tr
+tr
+td valign="top"
+Penumbra by Maibatsu
+strongInfluences:/strong Mitsubishi Eclipse, Audi TTbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/penumbraf.jpg" target="_blank" rel="shadowbox[Penumbra]" title="Penumbra"img src="/images/400x160/penumbraf.jpg" //a
+a href="/images/penumbrar.jpg" rel="shadowbox[Penumbra]" title="Penumbra" /a/td
+/tr
+tr
+td valign="top"
+Rapid GT by Dewbauchee
+strongInfluences:/strong Aston Martin Vantagebr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Convertible topbr /
+strongNotes:/strong Hard top or convertible variantsbr /
+br /
+/td
+tda href="/images/rapidgtf.jpg" target="_blank" rel="shadowbox[Rapid GT]" title="Rapid GT"img src="/images/400x160/rapidgtf.jpg" //a
+a href="/images/rapidgtr.jpg" rel="shadowbox[Rapid GT]" title="Rapid GT" /a/td
+/tr
+tr
+td valign="top"
+Raptor by BF
+strongInfluences:/strong Campagna T-REXbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/raptor.jpg" //td
+/tr
+tr
+td valign="top"
+Schwartzer by Benefactor
+strongInfluences:/strong Mercedes-Benz CL- and C-classbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/schwartzerf.jpg" target="_blank" rel="shadowbox[Schwartzer]" title="Schwartzer"img src="/images/400x160/schwartzerf.jpg" //a
+a href="/images/schwartzerr.jpg" rel="shadowbox[Schwartzer]" title="Schwartzer" /a/td
+/tr
+tr
+td valign="top"
+Seven-70 by Dewbauchee
+strongInfluences:/strong Aston Martin One-77br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Further Adventures in Finance and Felony Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/seven70.jpg" //td
+/tr
+tr
+td valign="top"
+Specter by Dewbauchee
+strongInfluences:/strong Aston Martin DB10br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/specter.jpg" //td
+/tr
+tr
+td valign="top"
+Specter Custom by Dewbauchee
+strongInfluences:/strong Aston Martin DB10br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/specter-custom.jpg" //td
+/tr
+tr
+td valign="top"
+Sprunk Buffalo (S) by Bravado
+strongInfluences:/strong Dodge Chargerbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Franklin's variant-based. PC/PS4/XB1 returning players. Available after completing a href="https://www.igta5.com/races-stock-car"stock car races/a. GTAO from Cunning Stunts.br /
+br /
+/td
+tda href="/images/buffalo3f.jpg" target="_blank" rel="shadowbox[Sprunk Buffalo]" title="Sprunk Buffalo"img src="/images/400x160/buffalo3f.jpg" //a
+a href="/images/buffalo3r.jpg" rel="shadowbox[Sprunk Buffalo]" title="Sprunk Buffalo" /a/td
+/tr
+tr
+td valign="top"
+Sultan by Karin
+strongInfluences:/strong Lexus IS, Mitsubishi Lancer Evo VIbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Also see RS variant under Super.br /
+br /
+/td
+tda href="/images/sultanf.jpg" target="_blank" rel="shadowbox[Sultan]" title="Sultan"img src="/images/400x160/sultanf.jpg" //a
+a href="/images/sultanr.jpg" rel="shadowbox[Sultan]" title="Sultan" /a/td
+/tr
+tr
+td valign="top"
+Surano by Benefactor
+strongInfluences:/strong Mercedes-Benz SLS AMG roadster, Jaguar F-typebr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Convertible topbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/suranof2.jpg" target="_blank" rel="shadowbox[Surano]" title="Surano"img src="/images/400x160/suranof2.jpg" //a
+a href="/images/suranor.jpg" rel="shadowbox[Surano]" title="Surano" /a/td
+/tr
+tr
+td valign="top"
+Tropos Rallye by Lampadati
+strongInfluences:/strong Lancia Stratosbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/tropos.jpg" //td
+/tr
+tr
+td valign="top"
+Verlierer by Bravado
+strongInfluences:/strong TVR Sagaris, Wiesmann GT MF5br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Executives and Other Criminals. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/verlierer.jpg" //td
+/tr
+/table
+/divh2Sports Classics/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('sportsclassics') .style.display=='none') {document.getElementById('sportsclassics') .style.display=''}else{document.getElementById('sportsclassics') .style.display='none'}"Show/hide/buttonbr /
+div id="sportsclassics" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Casco by Lampadati
+strongInfluences:/strong Maserati 3500 GT, Ferrari 250 GT SWB, Volvo P1800br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong GTA Online Heists (Prison Break unlock). GTA Online only.br /
+br /
+/td
+td width="402"img src="https://www.igta5.com/images/400x0/casco.jpg" alt="casco" //td
+/tr
+tr
+td valign="top"
+Coquette Classic by Invetero
+strongInfluences:/strong Corvettebr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Closed and open top variants. The SA Flight School Updatebr /
+br /
+/td
+tda href="/images/coquetteclassic1f.jpg" target="_blank" rel="shadowbox[Coquette Classic]" title="Coquette Classic"img src="/images/400x160/coquetteclassic1f.jpg" //a
+a href="/images/coquetteclassic1r.jpg" rel="shadowbox[Coquette Classic]" title="Coquette Classic" /a/td
+/tr
+tr
+td valign="top"
+Franken Stange by Albany
+strongInfluences:/strong Cadillac 341A Town Sedan, Munster Koachbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Roosevelt-based. Halloween Surprise. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/frankenstange.jpg" //td
+/tr
+tr
+td valign="top"
+JB 700 by Dewbauchee
+strongInfluences:/strong Aston Martin DB5/6br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/jb700f.jpg" target="_blank" rel="shadowbox[JB 700]" title="JB 700"img src="/images/400x160/jb700f.jpg" //a
+a href="/images/jb700r.jpg" rel="shadowbox[JB 700]" title="JB 700" /a/td
+/tr
+tr
+td valign="top"
+Mamba by Declasse
+strongInfluences:/strong AC Cobra MkIIIbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Hard or open top. Executives and Other Criminals. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/mamba.jpg" //td
+/tr
+tr
+td valign="top"
+Manana by Albany
+strongInfluences:/strong Buick LeSabre, Cadillac Eldoradobr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Hard or open topbr /
+br /
+/td
+tda href="/images/mananaf.jpg" target="_blank" rel="shadowbox[Manana]" title="Manana"img src="/images/400x160/mananaf.jpg" //a
+a href="/images/mananar.jpg" rel="shadowbox[Manana]" title="Manana" /a/td
+/tr
+tr
+td valign="top"
+Monroe by Pegassi
+strongInfluences:/strong Lamborghini Miurabr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/monroef.jpg" target="_blank" rel="shadowbox[Monroe]" title="Monroe"img src="/images/400x160/monroef.jpg" //a
+a href="/images/monroer.jpg" rel="shadowbox[Monroe]" title="Monroe" /a/td
+/tr
+tr
+td valign="top"
+Peyote by Vapid
+strongInfluences:/strong Ford Thunderbirdbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Hard or open topbr /
+br /
+/td
+tda href="/images/peyotef.jpg" target="_blank" rel="shadowbox[Peyote]" title="Peyote"img src="/images/400x160/peyotef.jpg" //a
+a href="/images/peyoter.jpg" rel="shadowbox[Peyote]" title="Peyote" /a/td
+/tr
+tr
+td valign="top"
+Pigalle by Lampadati
+strongInfluences:/strong Citroen SM, Maserati Ghiblibr /
+strongCapacity:/strong 2br /
+4strongFeatures:/strong br /
+strongNotes:/strong I'm Not a Hipster Updatebr /
+br /
+/td
+tda href="/images/pigallef.jpg" target="_blank" rel="shadowbox[Pigalle]" title="Pigalle"img src="/images/400x160/pigallef.jpg" //a
+a href="/images/pigaller.jpg" rel="shadowbox[Pigalle]" title="Pigalle" /a/td
+/tr
+tr
+td valign="top"
+Roosevelt by Albany
+strongInfluences:/strong Cadillac 341A Town Sedanbr /
+strongCapacity:/strong 6br /
+strongFeatures:/strong br /
+strongNotes:/strong Valetine's Day Massacre Specialbr /
+br /
+/td
+tda href="/images/rooseveltf.jpg" target="_blank" rel="shadowbox[Roosevelt]" title="Roosevelt"img src="/images/400x160/rooseveltf.jpg" //a
+a href="/images/rooseveltr.jpg" rel="shadowbox[Roosevelt]" title="Roosevelt" /a/td
+/tr
+tr
+td valign="top"
+Roosevelt Valor by Albany
+strongInfluences:/strong Cadillac 341A Town Sedanbr /
+strongCapacity:/strong 6br /
+strongFeatures:/strong br /
+strongNotes:/strong Be My Valetine update. More customization options.br /
+br /
+/td
+tdimg src="/images/400x160/rooseveltvalor.jpg" //td
+/tr
+tr
+td valign="top"
+Stinger by Grotti
+strongInfluences:/strong Alfa Romeo 33 Stradale, Ferrari Dino 206br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Soft or open top variantsbr /
+br /
+/td
+tda href="/images/stingerf.jpg" target="_blank" rel="shadowbox[Stinger]" title="Stinger"img src="/images/400x160/stingerf.jpg" //a
+a href="/images/stingerr.jpg" rel="shadowbox[Stinger]" title="Stinger" /a/td
+/tr
+tr
+td valign="top"
+Stinger GT by Grotti
+strongInfluences:/strong Alfa Romeo 33 Stradale, Ferrari 250 GTObr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong GTA Online onlybr /
+br /
+/td
+tda href="/images/stingergtf.jpg" target="_blank" rel="shadowbox[Stinger GT]" title="Stinger GT"img src="/images/400x160/stingergtf.jpg" //a
+a href="/images/stingergtr.jpg" rel="shadowbox[Stinger GT]" title="Stinger GT" /a/td
+/tr
+tr
+td valign="top"
+Stirling GT by Benefactor
+strongInfluences:/strong Mercedes-Benz 300SL/SLRbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Ill-Gotten Gains Part 1br /
+br /
+/td
+tda href="/images/stirlinggtf.jpg" target="_blank" rel="shadowbox[Stirling GT]" title="Stirling GT"img src="/images/400x160/stirlinggtf.jpg" //a
+a href="/images/stirlinggtr.jpg" rel="shadowbox[Stirling GT]" title="Stirling GT" /a/td
+/tr
+tr
+td valign="top"
+Tornado by Declasse
+strongInfluences:/strong Chevy Bel Airbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Convertible topbr /
+strongNotes:/strong Hard top, beater, convertible, and musical band (open beater) variants. Custom variant from Lowriders  Classics DLC (GTA Online only).br /
+br /
+/td
+tda href="/images/tornado3f.jpg" target="_blank" rel="shadowbox[Tornado]" title="Tornado"img src="/images/400x160/tornado3f.jpg" //a
+a href="/images/tornado3r.jpg" rel="shadowbox[Tornado]" title="Tornado" /a/td
+/tr
+tr
+td valign="top"
+Tornado Rat Rod by Declasse
+strongInfluences:/strong Chevy Bel Airbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Tornado variant. Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/tornado-rat-rod.jpg" //td
+/tr
+tr
+td valign="top"
+Z-type by Truffade
+strongInfluences:/strong Bugatti Type 57br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/ztypef.jpg" target="_blank" rel="shadowbox[Z-type]" title="Z-type"img src="/images/400x160/ztypef.jpg" //a
+a href="/images/ztyper.jpg" rel="shadowbox[Z-type]" title="Z-type" /a/td
+/tr
+/tablebr /
+/divh2Super/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('super') .style.display=='none') {document.getElementById('super') .style.display=''}else{document.getElementById('super') .style.display='none'}"Show/hide/buttonbr /
+div id="super" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+811 by Pfister
+strongInfluences:/strong Porsche 918br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Further Adventures in Finance and Felony Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/pfister811.jpg" //td
+/tr
+tr
+td valign="top"
+Adder by Truffade
+strongInfluences:/strong Bugatti SuperVeyron Conceptbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/adderf.jpg" target="_blank" rel="shadowbox[Adder]" title="Adder"img src="/images/400x160/adderf.jpg" //a
+a href="/images/adderr.jpg" rel="shadowbox[Adder]" title="Adder" /a/td
+/tr
+tr
+td valign="top"
+Banshee 900R by Bravado
+strongInfluences:/strong Dodge Viperbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Added with Drop Zone DLC. Upgraded Banshee at Benny's Motor Works.br /
+br /
+/td
+tdimg src="/images/400x160/banshee900r.jpg" //td
+/tr
+tr
+td valign="top"
+Bullet by Vapid
+strongInfluences:/strong Ford GTbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/bulletf.jpg" target="_blank" rel="shadowbox[Bullet]" title="Bullet"img src="/images/400x160/bulletf.jpg" //a
+a href="/images/bulletr.jpg" rel="shadowbox[Bullet]" title="Bullet" /a/td
+/tr
+tr
+td valign="top"
+Cheetah by Grotti
+strongInfluences:/strong Ferrari Enzo, Koenigsegg Agera, Spania GTA Spanobr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/cheetahf.jpg" target="_blank" rel="shadowbox[Cheetah]" title="Cheetah"img src="/images/400x160/cheetahf.jpg" //a
+a href="/images/cheetahr.jpg" rel="shadowbox[Cheetah]" title="Cheetah" /a/td
+/tr
+tr
+td valign="top"
+Entity XF by Overflod
+strongInfluences:/strong Koenigsegg CC Seriesbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/entityxff.jpg" target="_blank" rel="shadowbox[Entity XF]" title="Entity XF"img src="/images/400x160/entityxff.jpg" //a
+a href="/images/entityxfr.jpg" rel="shadowbox[Entity XF]" title="Entity XF" /a/td
+/tr
+tr
+td valign="top"
+ETR1 by Emperor
+strongInfluences:/strong Toyota 86/Lexus LFA/Suburu BRZbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/etr1.jpg" //td
+/tr
+tr
+td valign="top"
+FMJ by Vapid
+strongInfluences:/strong Ford GT, Aston Martin Vulcanbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Further Adventures in Finance and Felony Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/fmj.jpg" //td
+/tr
+tr
+td valign="top"
+Infernus by Pegassi
+strongInfluences:/strong Lamborghini Murcielago, Pagani Zondabr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/infernusf.jpg" target="_blank" rel="shadowbox[Infernus]" title="Infernus"img src="/images/400x160/infernusf.jpg" //a
+a href="/images/infernusr.jpg" rel="shadowbox[Infernus]" title="Infernus" /a/td
+/tr
+tr
+td valign="top"
+Itali GTB by Progen
+strongInfluences:/strong McLaren 570S, Trion Nemesisbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/itali-gtb.jpg" //td
+/tr
+tr
+td valign="top"
+Itali GTB Custom by Progen
+strongInfluences:/strong McLaren 570S, Trion Nemesis, McLaren P1 GTRbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/itali-gtb-custom.jpg" //td
+/tr
+tr
+td valign="top"
+Nero by Truffade
+strongInfluences:/strong Bugatti Chironbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/nero.jpg" //td
+/tr
+tr
+td valign="top"
+Nero Custom by Truffade
+strongInfluences:/strong  Bugatti Vision Gran Turismobr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/nero-custom.jpg" //td
+/tr
+tr
+td valign="top"
+Osiris by Pegassi
+strongInfluences:/strong Pagani Huayra, LaFerraribr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Ill-Gotten Gains Part 1br /
+br /
+/td
+tda href="/images/osirisf.jpg" target="_blank" rel="shadowbox[Osiris]" title="Osiris"img src="/images/400x160/osirisf.jpg" //a
+a href="/images/osirisr.jpg" rel="shadowbox[Osiris]" title="Osiris" /a/td
+/tr
+tr
+td valign="top"
+Penetrator by Ocelot
+strongInfluences:/strong Jaguar XJ220br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/penetrator.jpg" //td
+/tr
+tr
+td valign="top"
+RE-7B by Annis
+strongInfluences:/strong Mazda 787B, Nissan R390 GT1, othersbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/re-7b.jpg" //td
+/tr
+tr
+td valign="top"
+Reaper by Pegassi
+strongInfluences:/strong Lamborghini HuracÃ¡n, Lykan HyperSportbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Further Adventures in Finance and Felony Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/reaper.jpg" //td
+/tr
+tr
+td valign="top"
+Rocket Voltic by Coil
+strongInfluences:/strong Lotus Elise, Tesla Roadsterbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Rocketbr /
+strongNotes:/strong Modified Voltic. Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/rocket-voltic.jpg" //td
+/tr
+tr
+td valign="top"
+Sultan RS by Karin
+strongInfluences:/strong Lexus IS, Mitsubishi Lancer Evo Vbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Added with Drop Zone DLC. Upgraded Sultan at Benny's Motor Works.br /
+br /
+/td
+tdimg src="/images/400x160/sultanrs.jpg" //td
+/tr
+tr
+td valign="top"
+T20 by Progen
+strongInfluences:/strong br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Ill-Gotten Gains Part 2br /
+br /
+/td
+tda href="/images/t20f.jpg" target="_blank" rel="shadowbox[T20]" title="T20"img src="/images/400x160/t20f.jpg" //a
+a href="/images/t20r.jpg" rel="shadowbox[T20]" title="T20" /a/td
+/tr
+tr
+td valign="top"
+Tempesta by Pegassi
+strongInfluences:/strong Lamborghini HuracÃ¡n and Centenariobr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Import/Export Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/tempesta.jpg" //td
+/tr
+tr
+td valign="top"
+Turismo R by Grotti
+strongInfluences:/strong Ferrari P4/5, McLaren P1br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong The Business Updatebr /
+br /
+/td
+tda href="/images/turismorf.jpg" target="_blank" rel="shadowbox[Turismo R]" title="Turismo R"img src="/images/400x160/turismorf.jpg" //a
+a href="/images/turismorr.jpg" rel="shadowbox[Turismo R]" title="Turismo R" /a/td
+/tr
+tr
+td valign="top"
+Tyrus by Progen
+strongInfluences:/strong McLaren F1 GTR, Saleen S7br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/tyrus.jpg" //td
+/tr
+tr
+td valign="top"
+Vacca by Pegassi
+strongInfluences:/strong Lamborghini Gallardo, Aventadorbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/vaccaf.jpg" target="_blank" rel="shadowbox[Vacca]" title="Vacca"img src="/images/400x160/vaccaf.jpg" //a
+a href="/images/vaccar.jpg" rel="shadowbox[Vacca]" title="Vacca" /a/td
+/tr
+tr
+td valign="top"
+Voltic by Coil
+strongInfluences:/strong Lotus Elise, Tesla Roadsterbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Electric. Hard (normal or carbon) or open top. Rocket variant from Import/Export Update above.br /
+br /
+/td
+tda href="/images/volticf.jpg" target="_blank" rel="shadowbox[Voltic]" title="Voltic"img src="/images/400x160/volticf.jpg" //a
+a href="/images/volticr.jpg" rel="shadowbox[Voltic]" title="Voltic" /a/td
+/tr
+tr
+td valign="top"
+X80 Proto by Grotti
+strongInfluences:/strong Ferrari F80 Conceptbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Further Adventures in Finance and Felony Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/x80-proto.jpg" //td
+/tr
+tr
+td valign="top"
+Zentorno by Pegassi
+strongInfluences:/strong Lamborghini Sesto Elemento/Venenobr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong The High Life Updatebr /
+br /
+/td
+tda href="/images/zentornof.jpg" target="_blank" rel="shadowbox[Zentorno]" title="Zentorno"img src="/images/400x160/zentornof.jpg" //a
+a href="/images/zentornor.jpg" rel="shadowbox[Zentorno]" title="Zentorno" /a/td
+/tr
+/tablebr /
+/divh2SUVs/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('suvs') .style.display=='none') {document.getElementById('suvs') .style.display=''}else{document.getElementById('suvs') .style.display='none'}"Show/hide/buttonbr /
+div id="suvs" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Baller by Gallivanter
+strongInfluences:/strong Range Roverbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+td width="402"a href="/images/baller1f.jpg" target="_blank" rel="shadowbox[Baller]" title="Baller"img src="/images/400x160/baller1f.jpg" //a
+a href="/images/baller1r.jpg" rel="shadowbox[Baller]" title="Baller" /a/td
+/tr
+tr
+td valign="top"
+Baller 2 by Gallivanter
+strongInfluences:/strong Range Rover Evoquebr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Updated to "Baller Sport" on new-gen.br /
+br /
+/td
+tda href="/images/baller2f.jpg" target="_blank" rel="shadowbox[Baller 2]" title="Baller 2"img src="/images/400x160/baller2f.jpg" //a
+a href="/images/baller2r.jpg" rel="shadowbox[Baller 2]" title="Baller 2" /a/td
+/tr
+tr
+td valign="top"
+Baller LE by Gallivanter
+strongInfluences:/strong Range Rover Sport SVRbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Armor (variant)br /
+strongNotes:/strong Updated version. Executives and Other Criminals. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/baller3.jpg" //td
+/tr
+tr
+td valign="top"
+Baller LE LWB by Gallivanter
+strongInfluences:/strong Range Rover Sport SVRbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Armor (variant)br /
+strongNotes:/strong Longer version of above. Executives and Other Criminals. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/baller4.jpg" //td
+/tr
+tr
+td valign="top"
+BeeJay XL by Karin
+strongInfluences:/strong Toyota FJ Crusierbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/beejayxlf.jpg" target="_blank" rel="shadowbox[BeeJay XL]" title="BeeJay XL"img src="/images/400x160/beejayxlf.jpg" //a
+a href="/images/beejayxlr.jpg" rel="shadowbox[BeeJay XL]" title="BeeJay XL" /a/td
+/tr
+tr
+td valign="top"
+Cavalcade by Albany
+strongInfluences:/strong Cadillac Escaladebr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/cavalcade1f.jpg" target="_blank" rel="shadowbox[Cavalcade]" title="Cavalcade"img src="/images/400x160/cavalcade1f.jpg" //a
+a href="/images/cavalcade1r.jpg" rel="shadowbox[Cavalcade]" title="Cavalcade" /a/td
+/tr
+tr
+td valign="top"
+Cavalcade 2 by Albany
+strongInfluences:/strong Cadillac Escaladebr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/cavalcade2f.jpg" target="_blank" rel="shadowbox[Cavalcade 2]" title="Cavalcade 2"img src="/images/400x160/cavalcade2f.jpg" //a
+a href="/images/cavalcade2r.jpg" rel="shadowbox[Cavalcade 2]" title="Cavalcade 2" /a/td
+/tr
+tr
+td valign="top"
+Contender by Vapid
+strongInfluences:/strong Ford Raptor, Toyota Tundra Devolro Diablobr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Cunning Stunts Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/contender.jpg" //td
+/tr
+tr
+td valign="top"
+Dubsta by Benefactor
+strongInfluences:/strong Mercedes-Benz G-classbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Regular or blacked out variantsbr /
+br /
+/td
+tda href="/images/dubstaf.jpg" target="_blank" rel="shadowbox[Dubsta]" title="Dubsta"img src="/images/400x160/dubstaf.jpg" //a
+a href="/images/dubstar.jpg" rel="shadowbox[Dubsta]" title="Dubsta" /a/td
+/tr
+tr
+td valign="top"
+FQ 2 by Fathom
+strongInfluences:/strong Infinity FXbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong span style="color:#1a1a1a;"iGTA5/spanbr /
+br /
+/td
+tda href="/images/fq2f.jpg" target="_blank" rel="shadowbox[FQ 2]" title="FQ 2"img src="/images/400x160/fq2f.jpg" //a
+a href="/images/fq2r.jpg" rel="shadowbox[FQ 2]" title="FQ 2" /a/td
+/tr
+tr
+td valign="top"
+Granger by Declasse
+strongInfluences:/strong Chevrolet Suburbanbr /
+strongCapacity:/strong 8br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/grangerf.jpg" target="_blank" rel="shadowbox[Granger]" title="Granger"img src="/images/400x160/grangerf.jpg" //a
+a href="/images/grangerr.jpg" rel="shadowbox[Granger]" title="Granger" /a/td
+/tr
+tr
+td valign="top"
+Gresley by Bravado
+strongInfluences:/strong Dodge Durangobr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/gresleyf.jpg" target="_blank" rel="shadowbox[Gresley]" title="Gresley"img src="/images/400x160/gresleyf.jpg" //a
+a href="/images/gresleyr.jpg" rel="shadowbox[Gresley]" title="Gresley" /a/td
+/tr
+tr
+td valign="top"
+Habanero by Emperor
+strongInfluences:/strong Lexus RXbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/habanerof.jpg" target="_blank" rel="shadowbox[Habanero]" title="Habanero"img src="/images/400x160/habanerof.jpg" //a
+a href="/images/habaneror.jpg" rel="shadowbox[Habanero]" title="Habanero" /a/td
+/tr
+tr
+td valign="top"
+Huntley S by Enus
+strongInfluences:/strong Bentley SUV (aka Falcon)br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong The High Life Updatebr /
+br /
+/td
+tda href="/images/huntleysf.jpg" target="_blank" rel="shadowbox[Huntley S]" title="Huntley S"img src="/images/400x160/huntleysf.jpg" //a
+a href="/images/huntleysr.jpg" rel="shadowbox[Huntley S]" title="Huntley S" /a/td
+/tr
+tr
+td valign="top"
+Landstalker by Dundreary
+strongInfluences:/strong Ford Expeditionbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/landstalkerf.jpg" target="_blank" rel="shadowbox[Landstalker]" title="Landstalker"img src="/images/400x160/landstalkerf.jpg" //a
+a href="/images/landstalkerr.jpg" rel="shadowbox[Landstalker]" title="Landstalker" /a/td
+/tr
+tr
+td valign="top"
+Mesa by Canis
+strongInfluences:/strong Jeep Wrangler JK Unlimited, UAZ-469br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Hard or open top. Military variant named Crusader. Merryweather variant listed under Off-Road.br /
+br /
+/td
+tda href="/images/mesaf.jpg" target="_blank" rel="shadowbox[Mesa]" title="Mesa"img src="/images/400x160/mesaf.jpg" //a
+a href="/images/mesar.jpg" rel="shadowbox[Mesa]" title="Mesa" /a/td
+/tr
+tr
+td valign="top"
+Patriot by Mammoth
+strongInfluences:/strong Hummer H2br /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/patriotf.jpg" target="_blank" rel="shadowbox[Patriot]" title="Patriot"img src="/images/400x160/patriotf.jpg" //a
+a href="/images/patriotr.jpg" rel="shadowbox[Patriot]" title="Patriot" /a/td
+/tr
+tr
+td valign="top"
+Radius by Vapid
+strongInfluences:/strong Ford Edgebr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/radiusf.jpg" target="_blank" rel="shadowbox[Radius]" title="Radius"img src="/images/400x160/radiusf.jpg" //a
+a href="/images/radiusr.jpg" rel="shadowbox[Radius]" title="Radius" /a/td
+/tr
+tr
+td valign="top"
+Rocoto by Obey
+strongInfluences:/strong Porsche Cayennebr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/rocotof.jpg" target="_blank" rel="shadowbox[Rocoto]" title="Rocoto"img src="/images/400x160/rocotof.jpg" //a
+a href="/images/rocotor.jpg" rel="shadowbox[Rocoto]" title="Rocoto" /a/td
+/tr
+tr
+td valign="top"
+Seminole by Canis
+strongInfluences:/strong Jeep Cherokee, Nissan Pathfinderbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/seminolef.jpg" target="_blank" rel="shadowbox[Seminole]" title="Seminole"img src="/images/400x160/seminolef.jpg" //a
+a href="/images/seminoler.jpg" rel="shadowbox[Seminole]" title="Seminole" /a/td
+/tr
+tr
+td valign="top"
+Serrano by Benefactor
+strongInfluences:/strong Mercedes-Benz M-classbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/serranof.jpg" target="_blank" rel="shadowbox[Serrano]" title="Serrano"img src="/images/400x160/serranof.jpg" //a
+a href="/images/serranor.jpg" rel="shadowbox[Serrano]" title="Serrano" /a/td
+/tr
+tr
+td valign="top"
+XLS by Benefactor
+strongInfluences:/strong Mercedes-GL Classbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Armor (variant)br /
+strongNotes:/strong Further Adventures in Finance and Felony Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/xls.jpg" //td
+/tr
+/table
+/divh2Utility/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('utility') .style.display=='none') {document.getElementById('utility') .style.display=''}else{document.getElementById('utility') .style.display='none'}"Show/hide/buttonbr /
+div id="utility" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Airtug
+strongInfluences:/strong TUG tow tractorsbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Hitchbr /
+strongNotes:/strong br /
+br /
+/td
+td width="402"a href="/images/airtugf.jpg" target="_blank" rel="shadowbox[Airtug]" title="Airtug"img src="/images/400x160/airtugf.jpg" //a
+a href="/images/airtugr.jpg" rel="shadowbox[Airtug]" title="Airtug" /a/td
+/tr
+tr
+td valign="top"
+Caddy
+strongInfluences:/strong Club Carbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Old beater version with headlights. With or without roof.br /
+br /
+/td
+tda href="/images/caddy1f.jpg" target="_blank" rel="shadowbox[Caddy]" title="Caddy"img src="/images/400x160/caddy1f.jpg" //a
+a href="/images/caddy1r.jpg" rel="shadowbox[Caddy]" title="Caddy" /a/td
+/tr
+tr
+td valign="top"
+Caddy 2
+strongInfluences:/strong Club Carbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Newer versionbr /
+br /
+/td
+tda href="/images/caddy2f.jpg" target="_blank" rel="shadowbox[Caddy 2]" title="Caddy 2"img src="/images/400x160/caddy2f.jpg" //a
+a href="/images/caddy2r.jpg" rel="shadowbox[Caddy 2]" title="Caddy 2" /a/td
+/tr
+tr
+td valign="top"
+Docktug
+strongInfluences:/strong Ottawa Commandobr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong Fifth wheelbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/docktugf.jpg" target="_blank" rel="shadowbox[Docktug]" title="Docktug"img src="/images/400x160/docktugf.jpg" //a
+a href="/images/docktugr.jpg" rel="shadowbox[Docktug]" title="Docktug" /a/td
+/tr
+tr
+td valign="top"
+Fieldmaster by Stanley
+strongInfluences:/strong John Deere 6930br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong Hitchbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/fieldmasterf.jpg" target="_blank" rel="shadowbox[Fieldmaster]" title="Fieldmaster"img src="/images/400x160/fieldmasterf.jpg" //a
+a href="/images/fieldmasterr.jpg" rel="shadowbox[Fieldmaster]" title="Fieldmaster" /a/td
+/tr
+tr
+td valign="top"
+Forklift by HVY
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong Useable (but weak) forksbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/forkliftf.jpg" target="_blank" rel="shadowbox[Forklift]" title="Forklift"img src="/images/400x160/forkliftf.jpg" //a
+a href="/images/forkliftr.jpg" rel="shadowbox[Forklift]" title="Forklift" /a/td
+/tr
+tr
+td valign="top"
+Lawn Mower
+strongInfluences:/strong Variousbr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/lawnmowerf.jpg" target="_blank" rel="shadowbox[Lawn Mower]" title="Lawn Mower"img src="/images/400x160/lawnmowerf.jpg" //a
+a href="/images/lawnmowerr.jpg" rel="shadowbox[Lawn Mower]" title="Lawn Mower" /a/td
+/tr
+tr
+td valign="top"
+Ripley by HVY
+strongInfluences:/strong SCHOPF 210, Douglas Tugmaster DC10-4Hbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/ripleyf.jpg" target="_blank" rel="shadowbox[Ripley]" title="Ripley"img src="/images/400x160/ripleyf.jpg" //a
+a href="/images/ripleyr.jpg" rel="shadowbox[Ripley]" title="Ripley" /a/td
+/tr
+tr
+td valign="top"
+Sadler by Vapid
+strongInfluences:/strong Ford Super Dutybr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Hitchbr /
+strongNotes:/strong Various configurationsbr /
+br /
+/td
+tda href="/images/sadlerf.jpg" target="_blank" rel="shadowbox[Sadler]" title="Sadler"img src="/images/400x160/sadlerf.jpg" //a
+a href="/images/sadlerr.jpg" rel="shadowbox[Sadler]" title="Sadler" /a/td
+/tr
+tr
+td valign="top"
+Scrap Truck
+strongInfluences:/strong Internationalbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Almost identical cab to the Vapid Yankee from GTA IV.br /
+br /
+/td
+tda href="/images/scraptruckf.jpg" target="_blank" rel="shadowbox[Scrap Truck]" title="Scrap Truck"img src="/images/400x160/scraptruckf.jpg" //a
+a href="/images/scraptruckr.jpg" rel="shadowbox[Scrap Truck]" title="Scrap Truck" /a/td
+/tr
+tr
+td valign="top"
+Towtruck (Large)
+strongInfluences:/strong Internationalbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Lights, vehicle hookbr /
+strongNotes:/strong Almost identical cab to the Vapid Yankee from GTA IV.br /
+br /
+/td
+tda href="/images/towtrucklargef.jpg" target="_blank" rel="shadowbox[Towtruck (Large)]" title="Towtruck (Large)"img src="/images/400x160/towtrucklargef.jpg" //a
+a href="/images/towtrucklarger.jpg" rel="shadowbox[Towtruck (Large)]" title="Towtruck (Large)" /a/td
+/tr
+tr
+td valign="top"
+Towtruck (Small)
+strongInfluences:/strong Fordbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Lights, vehicle hookbr /
+strongNotes:/strong Vapid Slamvan-basedbr /
+br /
+/td
+tda href="/images/towtrucksmallf.jpg" target="_blank" rel="shadowbox[Towtruck (Small)]" title="Towtruck (Small)"img src="/images/400x160/towtrucksmallf.jpg" //a
+a href="/images/towtrucksmallr.jpg" rel="shadowbox[Towtruck (Small)]" title="Towtruck (Small)" /a/td
+/tr
+tr
+td valign="top"
+Tractor
+strongInfluences:/strong Fordson Model Fbr /
+strongCapacity:/strong 1br /
+strongFeatures:/strong Sloooooooooowbr /
+strongNotes:/strong With or without rear fendersbr /
+br /
+/td
+tda href="/images/tractorf.jpg" target="_blank" rel="shadowbox[Tractor]" title="Tractor"img src="/images/400x160/tractorf.jpg" //a
+a href="/images/tractorr.jpg" rel="shadowbox[Tractor]" title="Tractor" /a/td
+/tr
+tr
+td valign="top"
+Utility Truck (Large)
+strongInfluences:/strong Internationalbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Brute Stockade chassis. Compartmented (short or tall) or cherry picker body.br /
+br /
+/td
+tda href="/images/utilitytruck1f.jpg" target="_blank" rel="shadowbox[Utility Truck (Large)]" title="Utility Truck (Large)"img src="/images/400x160/utilitytruck1f.jpg" //a
+a href="/images/utilitytruck1r.jpg" rel="shadowbox[Utility Truck (Large)]" title="Utility Truck (Large)" /a/td
+/tr
+tr
+td valign="top"
+Utility Truck (Small)
+strongInfluences:/strong Ford F-150br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Vapid Contender chassisbr /
+br /
+/td
+tda href="/images/utilitytruck2f.jpg" target="_blank" rel="shadowbox[Utility Truck (Small)]" title="Utility Truck (Small)"img src="/images/400x160/utilitytruck2f.jpg" //a
+a href="/images/utilitytruck2r.jpg" rel="shadowbox[Utility Truck (Small)]" title="Utility Truck (Small)" /a/td
+/tr
+/tablebr /
+/divh2Vans/h2
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('vans') .style.display=='none') {document.getElementById('vans') .style.display=''}else{document.getElementById('vans') .style.display='none'}"Show/hide/buttonbr /
+div id="vans" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Armored Boxville by Brute
+strongInfluences:/strong Utilimasterbr /
+strongCapacity:/strong 5br /
+strongFeatures:/strong Armor, roof turretbr /
+strongNotes:/strong Modified Boxville. Import/Export Update. GTA Online only.br /
+br /
+/td
+td width="402"img src="/images/400x160/armored-boxville.jpg" //td
+/tr
+tr
+td valign="top"
+Bison by Bravado
+strongInfluences:/strong Dodge Ram HDbr /
+strongCapacity:/strong 6br /
+strongFeatures:/strong Hitch, winch (during a mission)br /
+strongNotes:/strong Various configurationsbr /
+br /
+/td
+tda href="/images/bisonf.jpg" target="_blank" rel="shadowbox[Bison]" title="Bison"img src="/images/400x160/bisonf.jpg" //a
+a href="/images/bisonr.jpg" rel="shadowbox[Bison]" title="Bison" /a/td
+/tr
+tr
+td valign="top"
+Bobcat XL by Vapid
+strongInfluences:/strong GM trucksbr /
+strongCapacity:/strong 5br /
+strongFeatures:/strong Hitchbr /
+strongNotes:/strong With or without capbr /
+br /
+/td
+tda href="/images/bobcatxlf.jpg" target="_blank" rel="shadowbox[Bobcat XL]" title="Bobcat XL"img src="/images/400x160/bobcatxlf.jpg" //a
+a href="/images/bobcatxlr.jpg" rel="shadowbox[Bobcat XL]" title="Bobcat XL" /a/td
+/tr
+tr
+td valign="top"
+Boxville by Brute
+strongInfluences:/strong Utilimasterbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Various configurations/companies. Available for purchase in GTAO after Heists Update (Pacific Standard Bank unlock).br /
+br /
+/td
+tda href="/images/boxvillef.jpg" target="_blank" rel="shadowbox[Boxville]" title="Boxville"img src="/images/400x160/boxvillef.jpg" //a
+a href="/images/boxviller.jpg" rel="shadowbox[Boxville]" title="Boxville" /a/td
+/tr
+tr
+td valign="top"
+Burrito by Declasse
+strongInfluences:/strong GM vansbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Various configurations/companies. See Gang variant below.br /
+br /
+/td
+tda href="/images/burritof.jpg" target="_blank" rel="shadowbox[Burrito]" title="Burrito"img src="/images/400x160/burritof.jpg" //a
+a href="/images/burritor.jpg" rel="shadowbox[Burrito]" title="Burrito" /a/td
+/tr
+tr
+td valign="top"
+Camper by Brute
+strongInfluences:/strong GM chassisbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Burrito chassisbr /
+br /
+/td
+tda href="/images/camperf.jpg" target="_blank" rel="shadowbox[Camper]" title="Camper"img src="/images/400x160/camperf.jpg" //a
+a href="/images/camperr.jpg" rel="shadowbox[Camper]" title="Camper" /a/td
+/tr
+tr
+td valign="top"
+Gang Burrito by Declasse
+strongInfluences:/strong GM vansbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Available for purchase in GTAO after Heists Update (Pacific Standard Bank unlock, no logo).br /
+br /
+/td
+tda href="/images/gangburritof.jpg" target="_blank" rel="shadowbox[Gang Burrito]" title="Gang Burrito"img src="/images/400x160/gangburritof.jpg" //a
+a href="/images/gangburritor.jpg" rel="shadowbox[Gang Burrito]" title="Gang Burrito" /a/td
+/tr
+tr
+td valign="top"
+Journey by Zirconium
+strongInfluences:/strong Winnebagobr /
+strongCapacity:/strong 6br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/journeyf.jpg" target="_blank" rel="shadowbox[Journey]" title="Journey"img src="/images/400x160/journeyf.jpg" //a
+a href="/images/journeyr.jpg" rel="shadowbox[Journey]" title="Journey" /a/td
+/tr
+tr
+td valign="top"
+Minivan by Vapid
+strongInfluences:/strong Ford Windstar, Dodge Caravanbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/minivanf.jpg" target="_blank" rel="shadowbox[Minivan]" title="Minivan"img src="/images/400x160/minivanf.jpg" //a
+a href="/images/minivanr.jpg" rel="shadowbox[Minivan]" title="Minivan" /a/td
+/tr
+tr
+td valign="top"
+Paradise by Bravado
+strongInfluences:/strong GM vansbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Rumpo-based. Beach Bum Update. span style="color:#1a1a1a;"iGTA5/spanbr /
+br /
+/td
+tda href="/images/paradisef.jpg" target="_blank" rel="shadowbox[Paradise]" title="Paradise"img src="/images/400x160/paradisef.jpg" //a
+a href="/images/paradiser.jpg" rel="shadowbox[Paradise]" title="Paradise" /a/td
+/tr
+tr
+td valign="top"
+Pony by Brute
+strongInfluences:/strong GM vansbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Various configurations/companiesbr /
+br /
+/td
+tda href="/images/ponyf.jpg" target="_blank" rel="shadowbox[Pony]" title="Pony"img src="/images/400x160/ponyf.jpg" //a
+a href="/images/ponyr.jpg" rel="shadowbox[Pony]" title="Pony" /a/td
+/tr
+tr
+td valign="top"
+Rumpo by Bravado
+strongInfluences:/strong GM vansbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Various configurations/companies. Off-road variant from Further Adventures in Finance and Felony Update below.br /
+br /
+/td
+tda href="/images/rumpof.jpg" target="_blank" rel="shadowbox[Rumpo]" title="Rumpo"img src="/images/400x160/rumpof.jpg" //a
+a href="/images/rumpor.jpg" rel="shadowbox[Rumpo]" title="Rumpo" /a/td
+/tr
+tr
+td valign="top"
+Rumpo Custom by Bravado
+strongInfluences:/strong GM vansbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong Sliding side doorsbr /
+strongNotes:/strong Off-road variant of Rumpo. Further Adventures in Finance and Felony Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/rumpo-custom.jpg" //td
+/tr
+tr
+td valign="top"
+Speedo by Vapid
+strongInfluences:/strong GM vansbr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/speedof.jpg" target="_blank" rel="shadowbox[Speedo]" title="Speedo"img src="/images/400x160/speedof.jpg" //a
+a href="/images/speedor.jpg" rel="shadowbox[Speedo]" title="Speedo" /a/td
+/tr
+tr
+td valign="top"
+Surfer by BF
+strongInfluences:/strong Volkswagen Type 2br /
+strongCapacity:/strong 2br /
+strongFeatures:/strong Regular or beater variantsbr /
+strongNotes:/strong br /
+br /
+/td
+tda href="/images/surfer2f.jpg" target="_blank" rel="shadowbox[Surfer]" title="Surfer"img src="/images/400x160/surfer2f.jpg" //a
+a href="/images/surfer2r.jpg" rel="shadowbox[Surfer]" title="Surfer" /a/td
+/tr
+tr
+td valign="top"
+Taco Van by Brute
+strongInfluences:/strong Utilimasterbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Boxville-based. With or without roof sign.br /
+br /
+/td
+tda href="/images/tacovanf.jpg" target="_blank" rel="shadowbox[Taco Van]" title="Taco Van"img src="/images/400x160/tacovanf.jpg" //a
+a href="/images/tacovanr.jpg" rel="shadowbox[Taco Van]" title="Taco Van" /a/td
+/tr
+tr
+td valign="top"
+Youga by Bravado
+strongInfluences:/strong Dodge Ram Vanbr /
+strongCapacity:/strong 2br /
+strongFeatures:/strong br /
+strongNotes:/strong Rear seats cannot hold passengers.br /
+br /
+/td
+tda href="/images/yougaf.jpg" target="_blank" rel="shadowbox[Youga]" title="Youga"img src="/images/400x160/yougaf.jpg" //a
+a href="/images/yougar.jpg" rel="shadowbox[Youga]" title="Youga" /a/td
+/tr
+tr
+td valign="top"
+Youga Classic by Bravado
+strongInfluences:/strong Ford Econolinebr /
+strongCapacity:/strong 4br /
+strongFeatures:/strong br /
+strongNotes:/strong Bikers Update. GTA Online only.br /
+br /
+/td
+tdimg src="/images/400x160/youga-classic.jpg" //td
+/tr
+/table
+/divh2Trailers/h2 strongSemi Trailers:/strong Tanker, box/reefer, curtain side, flatbed, car carrier, intermodal container, special transport, loggingbr /
+strongSmall Trailers:/strong Open wagon, generator, boat (with or without actual boat), rake (for Fieldmaster)h2Limited Use/h2 The following are either only available to ride or only operable during missions:br /
+button title="Click to show/hide content" type="button" onclick="if(document.getElementById('limited') .style.display=='none') {document.getElementById('limited') .style.display=''}else{document.getElementById('limited') .style.display='none'}"Show/hide/buttonbr /
+div id="limited" style="display:none"br /
+table
+tr
+td valign="top" width="358"
+Cargo Plane
+strongInfluences:/strong Antonov An-124, othersbr /
+strongCapacity:/strong n/abr /
+strongFeatures:/strong Rear loading ramp, front openingbr /
+strongNotes:/strong a href="https://www.igta5.com/mission-minor-turbulence"Minor Turbulence/a, a href="https://www.igta5.com/stranger-dom"Liquidity Risk/abr /
+br /
+/td
+td width="402"img src="/images/400x0/vehicles-planes-cargo-plane.jpg" //td
+/tr
+tr
+td valign="top"
+Cable Car
+strongInfluences:/strong Palm Springs Aerial Tramwaybr /
+strongCapacity:/strong n/abr /
+strongFeatures:/strong br /
+strongNotes:/strong Called either Cable Car (map points) or Aerial Tramway (in-game posters)br /
+br /
+/td
+tda href="/images/cablecar1.jpg" target="_blank" rel="shadowbox[Cable Car]" title="Cable Car"img src="/images/400x160/cablecar1.jpg" //a/td
+/tr
+tr
+td valign="top"
+Clown Van by Vapid
+strongInfluences:/strong GM vansbr /
+strongCapacity:/strong 4 (or much more for clowns)br /
+strongFeatures:/strong Colorful paint job with red nose and funny noises including the hornbr /
+strongNotes:/strong Modified Speedo. Featured in a href="https://www.igta5.com/stranger-barry"Grass Roots - Trevor/a (not operable) or GTA Online races if available.br /
+br /
+/td
+tda href="/images/clownvanf.jpg" target="_blank" rel="shadowbox[Clown Van]" title="Clown Van"img src="/images/400x160/clownvanf.jpg" //a
+a href="/images/clownvanr.jpg" rel="shadowbox[Clown Van]" title="Clown Van" /a/td
+/tr
+tr
+td valign="top"
+Cutter by HVY
+strongInfluences:/strong br /
+strongCapacity:/strong 1br /
+strongFeatures:/strong Rotating deathbr /
+strongNotes:/strong a href="https://www.igta5.com/mission-the-big-score"The Big Score (Obvious)/abr /
+br /
+/td
+tda href="/images/cutterf.jpg" target="_blank" rel="shadowbox[Cutter]" title="Cutter"img src="/images/400x160/cutterf.jpg" //a
+a href="/images/cutterr.jpg" rel="shadowbox[Cutter]" title="Cutter" /a/td
+/tr
+tr
+td valign="top"
+Metro Train
+strongInfluences:/strong LA Metro Light Railbr /
+strongCapacity:/strong n/abr /
+strongFeatures:/strong br /
+strongNotes:/strong Available to ride for free in the Los Santos area.br /
+br /
+/td
+tda href="/images/metrotrain1.jpg" target="_blank" rel="shadowbox[Metro Train]" title="Metro Train"img src="/images/400x160/metrotrain1.jpg" //a/td
+/tr
+tr
+td valign="top"
+Freight Train
+strongInfluences:/strong EMD GP38/GP40/other locomotivesbr /
+strongCapacity:/strong n/abr /
+strongFeatures:/strong Pulls up to 9 carsbr /
+strongNotes:/strong a href="https://www.igta5.com/mission-derailed"Derailed/abr /
+br /
+/td
+tda href="/images/freighttrain1.jpg" target="_blank" rel="shadowbox[Freight Train]" title="Freight Train"img src="/images/400x160/freighttrain1.jpg" //a/td
+/tr
+tr
+td valign="top"
+Rubber Tired Gantry Crane by HVY

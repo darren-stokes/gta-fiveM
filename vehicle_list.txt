@@ -1,0 +1,405 @@
++---------------+--------+
+| Make          | Amount |
++---------------+--------+
+| AC            | 1      |
++---------------+--------+
+| AMC           | 1      |
++---------------+--------+
+| Aston_Martin  | 9      |
++---------------+--------+
+| Audi          | 7      |
++---------------+--------+
+| BMW           | 13     |
++---------------+--------+
+| Bentley       | 3      |
++---------------+--------+
+| Bugatti       | 4      |
++---------------+--------+
+| Cadillac      | 7      |
++---------------+--------+
+| Chevrolet     | 16     |
++---------------+--------+
+| Chrysler      | 2      |
++---------------+--------+
+| Declasse      | 2      |
++---------------+--------+
+| Dodge         | 15     |
++---------------+--------+
+| Ducati        | 9      |
++---------------+--------+
+| Ferrari       | 21     |
++---------------+--------+
+| Ford          | 30     |
++---------------+--------+
+| GMC           | 3      |
++---------------+--------+
+| Honda         | 10     |
++---------------+--------+
+| Hoverbike     | 1      |
++---------------+--------+
+| Hummer        | 1      |
++---------------+--------+
+| Hyundai       | 1      |
++---------------+--------+
+| Jaguar        | 8      |
++---------------+--------+
+| Jeep          | 3      |
++---------------+--------+
+| John_Deere    | 1      |
++---------------+--------+
+| KTM           | 1      |
++---------------+--------+
+| Kawasaki      | 6      |
++---------------+--------+
+| Koenigsegg    | 4      |
++---------------+--------+
+| Lamborghini   | 8      |
++---------------+--------+
+| Lancia        | 2      |
++---------------+--------+
+| Lexus         | 2      |
++---------------+--------+
+| Lincoln       | 1      |
++---------------+--------+
+| Maserati      | 2      |
++---------------+--------+
+| Mazda         | 3      |
++---------------+--------+
+| McLaren       | 5      |
++---------------+--------+
+| Mercedes-Benz | 14     |
++---------------+--------+
+| Mini          | 1      |
++---------------+--------+
+| Mitsubishi    | 5      |
++---------------+--------+
+| Morgan        | 1      |
++---------------+--------+
+| Nissan        | 8      |
++---------------+--------+
+| Pagani        | 2      |
++---------------+--------+
+| Pontiac       | 3      |
++---------------+--------+
+| Porsche       | 9      |
++---------------+--------+
+| Range-Rover   | 6      |
++---------------+--------+
+| Reliant       | 1      |
++---------------+--------+
+| Rolls-Royce   | 5      |
++---------------+--------+
+| SSC           | 1      |
++---------------+--------+
+| Smart         | 1      |
++---------------+--------+
+| Subaru        | 4      |
++---------------+--------+
+| Suzuki        | 4      |
++---------------+--------+
+| TVR           | 1      |
++---------------+--------+
+| Tesla         | 2      |
++---------------+--------+
+| Toyota        | 9      |
++---------------+--------+
+| Vespa         | 1      |
++---------------+--------+
+| Volkswagen    | 6      |
++---------------+--------+
+| W-Motor       | 1      |
++---------------+--------+
+| Yamaha        | 3      |
++---------------+--------+
+
+Makes and Models:
+	AC Cobra
+	AMC Javelin Ringbrothers Defiant (1972)
+	Aston Martin DB5 Vantage (1965)
+	Aston Martin DBS Superleggera (2018)
+	Aston Martin One-77 (2012)
+	Aston Martin Rapide (2010)
+	Aston Martin V12 Vantage (2009)
+	Aston Martin Vanquish (2013)
+	Aston Martin Vanquish Zagato (2017)
+	Aston Martin Vantage (2019)
+	Aston Martin Vulcan (2016)
+	Audi A6 Avant (2019)
+	Audi R8 Spyder
+	Audi R8 V10 (2013)
+	Audi R8 V10 (2013)
+	Audi RS7 Sportback
+	Audi S8 4.0 TSFI Quattro
+	Audi SQ7 (2016)
+	BMW 1100R Naked Street Racer
+	BMW 440i XDrive (2018)
+	BMW 760i (e65)
+	BMW E30 M3 (1991)
+	BMW F82 M4 (2014)
+	BMW M3 GTR E46
+	BMW M5 F90 (2018)
+	BMW M6 Coupe (2013)
+	BMW M6 F13 Shadow Line
+	BMW M8 Coupé (2020)
+	BMW S1000RR (2014)
+	BMW X6M (2016)
+	BMW i8 (I12) (2015)
+	Bentley Bentayga
+	Bentley Continental GT (2014)
+	Bentley Mulsanne Mulliner (2013)
+	Bugatti Chiron
+	Bugatti Chiron
+	Bugatti Veyron Supersport
+	Bugatti Vision GT
+	Cadillac ATS-V Coupe
+	Cadillac ATS-V Coupe (2016)
+	Cadillac DTS Presidental Limo
+	Cadillac Eldorado (1978)
+	Cadillac Escalade ESV Platinum (2013)
+	Cadillac Escalade GMT900
+	Cadillac Fleetwood Eldorado (1968)
+	Chevrolet Bel Air (1957)
+	Chevrolet Camaro SS (2020)
+	Chevrolet Camaro SS 300 Drag
+	Chevrolet Camaro Z28 (1970)
+	Chevrolet Camaro ZL1 1LE (2018)
+	Chevrolet Caprice LS (2013)
+	Chevrolet Caprice Wagon (1989)
+	Chevrolet Chevelle SS (1970)
+	Chevrolet Cobalt SS
+	Chevrolet Corvette C1 (1960)
+	Chevrolet Corvette C7 Stingray (2014)
+	Chevrolet Corvette Stingray (1968)
+	Chevrolet El Camino SS (1970)
+	Chevrolet Express 3500 (2016)
+	Chevrolet Silverado Lifted
+	Chevrolet Suburban (2016)
+	Chrysler Crossfire Roadster
+	Chrysler Pacifica Limited (2017)
+	Declasse Drift Tampa
+	Declasse Drift Tampa
+	Dodge Bison King-Size
+	Dodge Challenger (2016)
+	Dodge Challenger (2016)
+	Dodge Challenger SRT Demon (2018)
+	Dodge Charger (2016)
+	Dodge Charger (2016)
+	Dodge Charger R/T (1969)
+	Dodge Charger SRT8 (2012)
+	Dodge Dart Demon (1971)
+	Dodge Demonhawk
+	Dodge Gauntlet Custom 6STR
+	Dodge Ram Limited (2016)
+	Dodge Viper
+	Dodge Viper (2013)
+	Dodge Viper SRT
+	Ducati Desmosedici RR
+	Ducati Diavel
+	Ducati GP15
+	Ducati GP15
+	Ducati Multistrada
+	Ducati Panigale R 1299 (2016)
+	Ducati Panigale V4 Speciale (2018)
+	Ducati Panigale V4 Speciale (2018)
+	Ducati Panigale v4
+	Ferrari 250 GT Berlinetta Lusso (1962)
+	Ferrari 458 Italia (2015)
+	Ferrari 458 Speciale (2015)
+	Ferrari 458 Speciale Aperta (2015)
+	Ferrari 458 Speciale Aperta (2015)
+	Ferrari 458 Spider (2015)
+	Ferrari 458 Spider (2015)
+	Ferrari 599 GTO
+	Ferrari 599 GTO
+	Ferrari 812 Superfast (2018)
+	Ferrari California T (2015)
+	Ferrari Enzo
+	Ferrari Enzo & Gemballa MIG-U1 Tuning
+	Ferrari F12 Berlinetta (2013)
+	Ferrari F40 (1987)
+	Ferrari F80 (2016)
+	Ferrari FXX-K Hybrid
+	Ferrari GTC4 Lusso
+	Ferrari GTO 599XX
+	Ferrari LaFerrari
+	Ferrari Portofino (2018)
+	Ford Crown Victoria
+	Ford Crownvic CVPI Retired (2011)
+	Ford Everest
+	Ford Expedition Platinum Civilian (2018)
+	Ford F-150 Hennessey Velociraptor (2017)
+	Ford F-250 Super Duty (2020)
+	Ford F-350 Dually (2018)
+	Ford F350 Superduty Lifted (2008)
+	Ford Fairlane 500  (1966)
+	Ford Falcon XB GT (Mad Max Interceptor)
+	Ford Falcon XB GT 351 (1973)
+	Ford Focus RS (2016)
+	Ford GT (2017)
+	Ford GT (2017)
+	Ford GT LM (2019)
+	Ford LTD Crown Victoria (1987)
+	Ford Mondeo (2016)
+	Ford Mondeo MK4 TitaniumX Station Wagon (2012)
+	Ford Mustang
+	Ford Mustang (1967)
+	Ford Mustang Cobra (2004)
+	Ford Mustang GT500 (2019)
+	Ford Mustang Hoonican
+	Ford Mustang RTR
+	Ford Pickup Hotrod (1936) Custom
+	Ford Raptor (2017)
+	Ford Shelby GT500 Eleanor
+	Ford Thunderbird (1957)
+	Ford Transit (2011)
+	Ford Tudor Hot Rod (1930)
+	GMC Sierra 1500 Crew Cab All Terrain X (2017)
+	GMC Sierra Denali HD3500 (2020)
+	GMC Yukon Denali (2015)
+	Honda CBR1000RR (MotoGP)
+	Honda CBR1000RR Fireblade (2010)
+	Honda CBR1000RR Fireblade (2017)
+	Honda Goldwing
+	Honda Integra Type R DC5
+	Honda Integra Type-R DC1
+	Honda Integra Type-R DC2
+	Honda NSX (2015)
+	Honda NSX (NC1) (2016)
+	Honda Odyssey Elite (2019)
+	Hoverbike
+	Hummer H2
+	Hyundai Sonata (2018)
+	Jaguar C-X75
+	Jaguar E-type
+	Jaguar F-Type-R SVR
+	Jaguar F-pace (2017) hamann edition
+	Jaguar F-type convertible (2014)
+	Jaguar XE SVR Project 8
+	Jaguar XJ (2010)
+	Jaguar XJ220
+	Jeep Bagged Custom's Jeep Rock Crawler
+	Jeep Grand Cherokee Trackhawk Series IV (2018)
+	Jeep Wrangler Unlimited 3 Door JK (2013)
+	John Deere 6320
+	KTM RC390
+	Kawasaki H2 (2016)
+	Kawasaki Z1000
+	Kawasaki Z1000 (1980's)
+	Kawasaki Z800
+	Kawasaki ZX10-R (2014)
+	Kawasaki ZX10R
+	Koenigsegg Agera RS
+	Koenigsegg Agera RS Carbon
+	Koenigsegg Jesko (2020)
+	Koenigsegg Jesko (2020)
+	Lamborghini Aventador LP700-4 (2015)
+	Lamborghini Centenario (2017)
+	Lamborghini Centenario (2017)
+	Lamborghini Huracan LP610-4 (2014)
+	Lamborghini Huracan LP610-4 (2014)
+	Lamborghini Miura P400 (1967)
+	Lamborghini SC18 Alston (2019)
+	Lamborghini Urus (2018)
+	Lancia Delta Integral Evo1
+	Lancia Stratos Gr. 4
+	Lexus GS F (2019)
+	Lexus LX 570 (2016)
+	Lincoln continental (2016)
+	Maserati GT
+	Maserati GT
+	Mazda 3 (2009)
+	Mazda RX7
+	Mazda RX7 Veilside
+	McLaren 570S (2015)
+	McLaren 570s Vorsteiner (2017)
+	McLaren 675LT (2016)
+	McLaren F1 GTR Longtail
+	McLaren P1
+	Mercedes-Benz 300SL Gullwing (1955)
+	Mercedes-Benz 350 SL Roadster
+	Mercedes-Benz AMG GT S Prior Edition
+	Mercedes-Benz Brabus 700 4.0 (6x6)(L.S.I)
+	Mercedes-Benz C-Class W205 (2014)
+	Mercedes-Benz C63 S AMG (2017)
+	Mercedes-Benz G-Class (2019)
+	Mercedes-Benz G-Class 65 AMG
+	Mercedes-Benz GLS 63 AMG (X166) (2016)
+	Mercedes-Benz Maybach S650 AB (2018)
+	Mercedes-Benz S500 W222 v2.2 by Gta5KoRn
+	Mercedes-Benz S63 AMG Cabriolet
+	Mercedes-Benz SLS AMG Black Series (2013)
+	Mercedes-Benz SLS AMG C197 (2011)
+	Mini John Cooper Works
+	Mitsubishi Eclipse
+	Mitsubishi Eclipse (2006)
+	Mitsubishi GTS Spider
+	Mitsubishi Lancer Evo VIII
+	Mitsubishi Lancer Evolution IX MR
+	Morgan Aero SuperSports (2010)
+	Nissan Armada Nismo
+	Nissan Fairlady 240Z
+	Nissan GTR (R35)
+	Nissan Patrol Super Safari VTC 4800 Y61 (2016)
+	Nissan Sentra Nismo (2018)
+	Nissan Skyline GT-R (R34)
+	Nissan Skyline R34 (2F2F)
+	Nissan Titan Warrior
+	Pagani Huayra BC (2016)
+	Pagani Zonda R
+	Pontiac Firebird (1970)
+	Pontiac Firebird Trans Am (1977)
+	Pontiac Knight Rider Kitt
+	Porsche 911 (993) RWB Rotana (1993)
+	Porsche 911 993 GT-2 (1992) RWB
+	Porsche 911 Cabriolet Carrera 4S (2020)
+	Porsche 911 GT3 RS (2019)
+	Porsche 911 Turbo S (2016)
+	Porsche Cayenne S (2018)
+	Porsche Cayenne Turbo S (2016)
+	Porsche Cayman GT4 (2016)
+	Porsche Panamera Techart
+	Range-Rover Autobiography KAHN DESIGN
+	Range-Rover Sport SVR 5.0 V8 (2014)
+	Range-Rover Velar (2018)
+	Range-Rover Vogue AB (2015)
+	Range-Rover Vogue StarTech L405
+	Range-Rover Vogue Startech
+	Reliant Robin
+	Rolls-Royce Cullinan (2019)
+	Rolls-Royce Dawn (2019)
+	Rolls-Royce Ghost (2018)
+	Rolls-Royce Phantom (2018)
+	Rolls-Royce Wraith
+	SSC Ultimate Aero
+	Smart For Two
+	Subaru Imprezza WRX STI
+	Subaru Imprezza WRX STi
+	Subaru WRX STI (2016)
+	Subaru WRX STi (2008)
+	Suzuki GSX-R1000
+	Suzuki GSX-R1300 Hayabusa
+	Suzuki GSX-R1300 Hayabusa (2015)
+	Suzuki GSX-R1300 Hayabusa drag
+	TVR Griffith (2018)
+	Tesla Model 3 (2018)
+	Tesla Roadster (2020)
+	Toyota Camry XSE (2018)
+	Toyota Hilux Vigo (2015)
+	Toyota Land Cruiser VXR (2016)
+	Toyota Sprinter Trueno GT Apex (1985)
+	Toyota Supra A90 Pandem Kit (2020)
+	Toyota Supra JAZ80
+	Toyota Supra JAZ80 Paul's Car
+	Toyota Supra JZA80
+	Toyota Yaris (2017)
+	Vespa
+	Volkswagen Beetle (Fusca) Turbo (2012)
+	Volkswagen Golf GTI
+	Volkswagen Golf Mk1 'Rabbit'
+	Volkswagen Golf R32
+	Volkswagen Passat Highline Stanced B8 (2016)
+	Volkswagen Transporter (1968)
+	W-Motor Lykan HyperSport
+	Yamaha R1 (2015)
+	Yamaha YZF-R1/R1M (2014)
+	Yamaha YZF-R6 (2015)
